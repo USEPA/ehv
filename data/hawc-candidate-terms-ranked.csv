@@ -1,0 +1,2382 @@
+type,term,count
+system,Developmental,3456
+organ,Whole Body,3351
+effect,Pregnancy Outcome,2931
+effect_subtype,Clinical Observation,2089
+effect_subtype,Histopathology,1949
+system,Nervous,1687
+effect,Behavioral Function,1610
+effect_subtype,Offspring Growth,1582
+organ,CNS,1466
+effect,Histopathology,1360
+effect,Non-Neoplastic Lesions,816
+effect_subtype,,807
+system,Respiratory,796
+name,"Body Weight, F1",706
+name,"Body Weight, Pup",655
+effect_subtype,Litter Characteristics,638
+effect,,572
+effect,Clinical Observation,566
+organ,Liver,544
+system,Hepatic,540
+organ,Multi-Organ,536
+organ,Nasal Cavity,502
+system,Hematologic,472
+effect_subtype,Offspring Viability,448
+effect,Organ Weight,418
+effect_subtype,Clinical Chemistry,406
+organ,,396
+effect_subtype,Non-Neoplastic Lesions,383
+system,Reproductive,374
+organ,Kidney,361
+system,Urinary,342
+system,,336
+name,Litter Size,320
+system,Immune,318
+effect,Clinical Chemistry,316
+organ,Blood,314
+effect_subtype,Hematology,295
+effect_subtype,Abnormal Appearance,285
+organ,Uterus,267
+organ,Lung,257
+effect_subtype,Fertility,220
+system,Endocrine,210
+system,Whole Body,209
+effect_subtype,Autoimmunity Disease Models,201
+system,Cardiovascular,200
+organ,Cochlea,188
+effect_subtype,Auditory Function,186
+name,Litters Delivered,145
+effect_subtype,Absolute,134
+system,Metabolic,133
+effect_subtype,Neoplastic Lesions,128
+effect_subtype,Recovery Period,121
+effect_subtype,Organ Weight,119
+effect,Ototoxicity,119
+name,"Body Weight, Absolute",117
+effect_subtype,Mortality,113
+effect_subtype,Body Weight,111
+name,Offspring Mortality,109
+name,Clinical Observation Endpoints,107
+system,Female Reproductive,100
+effect,Body Weight,97
+effect,Malformation,97
+effect,Fertility,92
+organ,Spleen,92
+organ,Brain,92
+effect_subtype,Non-Neoplastic,90
+system,Gastrointestinal,90
+organ,Epididymis,81
+name,Litters Weaned,80
+effect_subtype,mRNA expression,80
+effect_subtype,Enzyme,78
+name,"Liver Histopathology, Abnormal",77
+name,Brain Histopathology,76
+name,Clinical Observations,75
+effect,Blood Count,75
+name,Implantation,73
+effect_subtype,Pup Weight,72
+effect,White Blood Cell,72
+organ,Heart,71
+organ,Thymus,71
+effect,Red Blood Cell,70
+name,Kidney Histopathology,70
+effect_subtype,Non-Neoplastic Lesion,69
+effect,Ototoxicty,69
+name,"Clinical Observations, Unspecified",68
+effect,Abnormal Appearance,68
+name,Pup Weight,67
+effect,Blood Component,67
+effect_subtype,Neoplastic,66
+name,"Body Weight, F3",66
+organ,Ovary,66
+effect,Neoplastic Lesions,64
+organ,Central Nervous System,64
+name,Lung Histopathology,64
+name,Adrenal Gland Histopathology,64
+name,Liveborn,63
+name,Body Weight,62
+name,"Body Weight, F2",62
+effect,Hematology,61
+system,Multi-System,60
+name,Spleen Histopathology,59
+organ,Testis,59
+effect_subtype,Relative,58
+effect,Gene,58
+name,Offspring Survival,58
+effect,Morphological Abnormality,57
+organ,Serum,56
+system,Ocular,56
+effect,Protein,56
+name,Offspring Viability,56
+organ,Eye,56
+organ,Thyroid,55
+effect_subtype,Resorptions,54
+effect_subtype,Lipids and Lipoproteins,53
+name,"Body Weight, Birth",52
+effect,Urinalysis,51
+organ,Multi-organ,51
+name,Trachea Histopathology,50
+name,Thymus Histopathology,50
+name,Heart Histopathology,50
+name,Pituitary Gland Histopathology,49
+effect,Histopathologic lesions,49
+name,Total Cholesterol,48
+effect_subtype,External Abnormality,48
+name,Methemoglobin,47
+name,"Thyroxine (T4), Serum",47
+system,Multi-system,47
+name,Urinary Bladder Histopathology,47
+effect_subtype,Hormone,46
+name,"Nose, Olfactory Epithelium, Atrophy",46
+name,"Terminal Body Weight, Absolute",46
+effect,Leukocyte Counts,46
+effect,Enzyme Activity,45
+organ,Pancreas,44
+name,"Liver Weight, Relative",44
+name,Spinal Cord Histopathology,44
+name,"Liver Weight, Absolute (Unadjusted)",43
+name,Mortality,42
+name,"Liver, Necrosis",42
+name,Pancreas Histopathology,42
+name,Triglycerides,42
+name,"Spleen, Hematopoietic Cell Proliferation",42
+organ,Testes,41
+name,Sciatic Nerve Histopathology,40
+name,"Nose, Inflammation, Suppurative",39
+name,"Liver Weight, Absolute (Adjusted)",39
+name,Stomach Histopathology,39
+name,Pup Body Weight,39
+name,"Liver Weight, Absolute",38
+name,Esophagus Histopathology,38
+name,"Triiodothyronine (T3), Serum",38
+effect,Laboratory Measurement,38
+effect,Hormone,38
+effect,Histopathology and Morphology,38
+name,Thyroid Gland Histopathology,38
+name,Clinical Observation,37
+name,"Thyroid stimulating hormone (TSH), Serum",37
+system,Renal,37
+name,"Body Weight, Fetal",37
+organ,Spinal Cord,37
+effect_subtype,Non-neoplastic,37
+name,"Nose, Respiratory Epithelium, Hyperplasia",36
+name,Aorta Histopathology,36
+effect_subtype,Morphological Measurements,36
+name,Urinalysis Endpoints,36
+name,"Nose, Respiratory Epithelium, Metaplasia, Squamous",36
+effect_subtype,Protein Measurement,36
+effect_subtype,Organ Function,35
+effect_subtype,Relative to Body,35
+effect,Variations,35
+organ,Nose,33
+name,Ovary Histopathology,33
+name,Skin Histopathology,33
+effect_subtype,Enzyme Activity,33
+effect,Postnatal Growth,32
+effect_subtype,Oxidative Stress,32
+name,Bone Marrow Histopathology,32
+name,"Ophthalmology, Unspecified",31
+effect_subtype,Inflammation,31
+effect,Metabolism,31
+name,"Pituitary Gland Weight, Absolute",30
+effect,Maternal Body Weight,30
+name,Able to Achieve and Maintain Pregnancy,30
+organ,Adrenal,30
+effect_subtype,Developmental Milestone,29
+organ,Mammary Gland,29
+organ,Pituitary,29
+system,Maternal Toxicity,29
+name,"Liver, Clear Cell Focus",29
+name,"Offspring Survival, Fetal",29
+name,Eye Histopathology,29
+name,Testosterone,29
+name,"Liver, Hepatocyte, Hypertrophy",29
+organ,Stomach,28
+effect,Gross Pathology,28
+name,"Resorptions, Total",28
+name,"Spleen Weight, Relative",28
+name,Glucose,28
+name,Salivary Gland Histopathology,28
+name,Body Weight Change,28
+name,Parathyroid Gland Histopathology,28
+name,"Spleen Weight, Absolute",28
+system,Male Reproductive,28
+name,Mammary Gland Histopathology,27
+effect_subtype,Visceral Abnormality,27
+name,"Urinalysis, Unspecified",26
+name,Mean Corpuscular Volume (MCV),26
+name,"Kidney, Nephropathy",26
+effect,Organ Function,26
+name,Uterus Histopathology,25
+name,Nervous Effects,25
+name,"Bone Marrow, Hyperplasia",25
+effect_subtype,Histopathology and Morphology,25
+organ,Sciatic Nerve,25
+name,"Liver, Basophilic Focus",25
+system,Systemic,25
+name,"Pituitary Gland Weight, Absolute (Adjusted)",24
+name,Large Intestine Histopathology,24
+name,Aspartate Aminotransferase (AST),24
+effect,Metabolic Indicators,24
+effect_subtype,Gross Pathology,24
+effect_subtype,Organic Chemical,24
+name,"Thyroid Gland, Follicular Cell, Hypertrophy",23
+name,Small Intestine Histopathology,23
+name,Ataxia,23
+organ,Larynx,23
+effect,Pregnancy Outcomes,23
+name,"Respiratory Epithelium, Hyperplasia",22
+effect_subtype,Element,22
+effect_subtype,Thyroid Hormone,22
+name,"Lymph Node, Mediastinal Histopathology, Abnormal",22
+effect,Apoptosis,22
+effect_subtype,Red Blood Cell,22
+system,Musculoskeletal,22
+organ,Bone Marrow,22
+organ,Lymph Node,22
+effect,Electrolyte,22
+name,"Hematology, Unspecified",22
+name,"Pituitary Gland Weight, Absolute (Unadjusted)",22
+name,Hemoglobin,22
+name,"Inflammation, Chronic",22
+name,Liver Histopathology,22
+name,"Lung, Inflammation, Chronic",21
+name,Litter Weight,21
+name,Leukocytes,21
+name,"Pituitary Gland Weight, Relative",21
+name,"Clinical Chemistry, Unspecified",21
+effect_subtype,Pup Body Weight,21
+effect,Ultrastructural Changes,21
+effect_subtype,Binding and Transport,20
+name,Body Weight Change (Unadjusted),20
+name,"Body Weight, Pup (2nd litter)",20
+name,Nose Histopathology,20
+name,"Kidney Weight, Absolute (Unadjusted)",20
+effect_subtype,Immune Response,20
+name,Clinical Signs,20
+name,"Muscle Histopathology, Abnormal",20
+effect,Cholesterol,20
+name,"Nasal Cavity Histopathology, Abnormal",20
+name,"Body Weight, Pup (1st litter)",20
+organ,Aorta,20
+name,Survival,20
+name,"Liver, Cell Proliferation",20
+name,Bone Histopathology,20
+name,Lymph Node Histopathology,20
+name,"Body Weight Change, F1",20
+name,"Nose, Olfactory Epithelium, Accumulation, Hyaline Droplet",20
+organ,Adrenals,20
+name,Urine Color,19
+name,"Nose, Respiratory Epithelium, Necrosis",19
+name,Convulsions,19
+name,"Larynx, Inflammation, Chronic Active",19
+name,"Kidney, Non-Neoplastic Lesions",19
+name,Drinking Water Intake,19
+name,Hypoactivity,19
+name,Lactate Dehydrogenase (LDH),19
+name,Total Protein,19
+effect_subtype,Muscle Function,19
+name,"Terminal Body Weight, Absolute (Unadjusted)",19
+name,Seminal Vesicle Histopathology,19
+effect_subtype,Sexual Maturation,19
+name,Piloerection,19
+name,"Liver, Bile Duct, Hyperplasia",18
+name,"Thymus Weight, Relative",18
+name,"Nose, Olfactory Epithelium, Necrosis",18
+name,Alkaline Phosphatase (ALP),18
+name,"Nose, Turbinate, Atrophy",18
+name,Alanine Aminotransferase (ALT),18
+organ,Adrenal Gland,18
+organ,Vagina,18
+organ,Trachea,18
+organ,Head,18
+effect_subtype,Measured in Thymus,18
+name,"Kidney, Mineralization",18
+name,"Kidney Weight, Absolute (Adjusted)",18
+name,Harderian Gland Histopathology,18
+name,Number of Dams Delivering,18
+name,"Small Intestine, Duodenum Histopathology",18
+name,"Liver, Histopathology",18
+name,"Hyperplasia/Hypertrophy Incidence, Nasopharyngeal Goblet Cell Level IV",18
+name,"Body Weight Change, Pup",18
+name,"Small Intestine, Ileum Histopathology",18
+name,"Spleen, Pigmentation",18
+name,"Liver, Eosinophilic Focus",18
+name,"Thyroxine (T4), Total",18
+organ,Plasma,17
+effect_subtype,Skeletal Structural Abnormality,17
+effect_subtype,Protein Expression,17
+name,Epididymis Histopathology,17
+name,"Levator Ani (with Bulbocavernosus) Muscle Weight, Absolute (Unadjusted)",17
+organ,Bladder,17
+effect_subtype,Finding,17
+effect_subtype,Skeletal Ossification Abnormality,17
+name,Hepatic Effects,17
+effect_subtype,Apoptosis,17
+effect,Clinical Pathology,17
+effect,Sexual Differentiation and Maturation,17
+effect,Neurotransmitter,17
+name,"Thymus Weight, Absolute",17
+name,Triglyceride (TRIG),17
+name,"Nose, Respiratory Epithelium, Accumulation, Hyaline Droplet",17
+effect_subtype,Ex vivo WBC Function,17
+name,Erythrocytes,16
+name,"Large Intestine, Rectum Histopathology",16
+name,"Olfactory Epithelium, Inflammation, Chronic",16
+name,Body Weight at Vaginal Opening,16
+name,"Degeneration Incidence, Nasal Olfactory Epithelium Level III",16
+name,Sternum Histopathology,16
+name,"Degeneration Severity, Nasal Olfactory Epithelium Level V",16
+name,"Nose, Olfactory Epithelium, Metaplasia, Respiratory",16
+name,Eosinophils,16
+name,Hematocrit,16
+effect,Triglycerides,16
+effect,Oxidative Stress,16
+name,"Kidney, Lesion",16
+name,"Olfactory Epithelium, Atrophy",16
+name,"Large Intestine, Cecum Histopathology",16
+name,"Small Intestine, Jejunum Histopathology",16
+name,"Respiratory Epithelium, Hyperplasia, Goblet Cell",16
+name,"Large Intestine, Colon Histopathology",16
+name,"Respiratory Epithelium, Degeneration, Hyaline",16
+name,"Hyperplasia/Hypertrophy Severity, Nasopharyngeal Goblet Cell Level IV",16
+name,"Degeneration Severity, Nasal Olfactory Epithelium Level III",16
+name,"Degeneration Incidence, Nasal Olfactory Epithelium Level V",16
+name,"Degeneration Incidence, Nasal Olfactory Epithelium Level IV",16
+effect_subtype,Glucose,16
+effect_subtype,White Blood Cell,16
+effect_subtype,Pathology,16
+organ,Thyroid/Parathyroid,16
+name,"Olfactory Epithelium, Hyperplasia, Atypical",16
+name,"Hyperplasia/Hypertrophy Severity, Nasopharyngeal Goblet Cell Level V",16
+name,"Body Weight, Absolute XXX",16
+name,"Spleen, Congestion",16
+name,"Degeneration Severity, Nasal Olfactory Epithelium Level IV",16
+name,"Olfactory Epithelium, Degeneration, Hyaline",16
+name,Mean Corpuscular Hemoglobin (MCH),16
+name,Polychromatophilic Erythrocytes,15
+name,Testis Histopathology,15
+organ,Thyroid Gland,15
+organ,Gallbladder,15
+name,Albumin/Globulin (A/G) Ratio,15
+name,"Seminal Vesicle and Coagulating Gland without Fluid Weight, Absolute (Unadjusted)",15
+name,"Urea, Blood",15
+name,Urine pH,15
+name,"Lung, Alveolar Epithelium, Hyperplasia",15
+name,"Grip Strength, Hindlimb",15
+name,Tongue Histopathology,15
+name,Systemic Effects,15
+name,Hemoglobin (HGB),15
+name,"Occult Blood, Urine",15
+name,"Body Weight, Offspring",15
+name,"Liver, Pigment",15
+name,Prostate Histopathology,15
+name,"Grip Strength, Forelimb",15
+name,Late Fetal Mortality,15
+name,Larynx Histopathology,15
+name,"Spleen, Histopathology",15
+name,"Adrenal Gland Weight, Right, Relative",15
+effect,Alanine Aminotransferase,15
+effect,Homeostasis,14
+effect,Cellular Function,14
+effect_subtype,Multiple Effects,14
+effect_subtype,All Types,14
+effect_subtype,Skeletal Abnormality,14
+name,"Mammary Gland, Histopathology",14
+name,Red Blood Cell Count,14
+name,"Glucose (GLU), Serum",14
+name,"Liver, Inflammation",14
+name,High Density Lipoprotein (HDL),14
+name,"Hyperplasia/Hypertrophy Incidence, Nasopharyngeal Goblet Cell Level V",14
+name,Skeletal Muscle Histopathology,14
+name,"Small Intestine, Histopathology",14
+name,Fetal Body Weight,14
+name,"Large Intestine, Histopathology",14
+name,"Nose, Olfactory Epithelium, Pigmentation",14
+name,Pup Body Weight Relative to Litter,14
+name,Hematology Endpoints,14
+name,Flavor Aversion (Daily Saccharin Intake),14
+name,"Nose, Olfactory Epithelium, Degeneration",14
+name,"Respiratory Epithelium, Metaplasia, Squamous",14
+name,"Terminal Body Weight, Absolute (Adjusted)",14
+name,Thyroid Histopathology,14
+name,"Titer in AFA Positive Mice, Titer",14
+name,Lymphocytes,14
+name,"Resorptions, Mean/Litter",14
+name,"Titer in AFA Positive Mice, Positive Response",14
+name,Testes Histopathology,14
+name,Hepatocellular Hypertrophy,14
+name,"Lung, Infiltration Cellular, Histiocyte",14
+name,Vagina Histopathology,14
+name,"Ovaries Weight, Absolute",14
+name,Mean Corpuscular Hemoglobin Concentration (MCHC),14
+name,"Lung, Inflammation, Chronic Active",14
+name,"Skin, Histopathology",13
+name,"Adrenal Gland Weight, Absolute (Unadjusted)",13
+name,"Pituitary Gland, Histopathology",13
+effect_subtype,No Effects,13
+effect_subtype,Water Consumption,13
+effect_subtype,neoplastic lesions,13
+effect_subtype,No Effect,13
+name,"Levator Ani (with Bulbocavernosus) Muscle Weight, Absolute (Adjusted)",13
+name,Reproductive Effects,13
+effect,Alkaline Phosphatase,13
+effect,Hematocrit,13
+name,"Adrenal Gland Weight, Left, Relative",13
+name,Leukemia,13
+name,"Glucose, Serum (GLU)",13
+effect,Bilirubin,13
+effect,Clinical Observations,13
+name,Pregnancy Failure,13
+name,Offspring Survival Ratio,13
+organ,Peripheral Nervous System,13
+name,"Seminal Vesicle and Coagulating Gland with Fluid Weight, Absolute (Unadjusted)",13
+organ,Pharynx,13
+organ,Prostate,13
+organ,Peripheral Nerve,13
+name,"Crown-Rump Length, Fetal",13
+organ,Large Intestine,13
+name,"Kidney Weight, Relative",13
+name,"Adrenal Gland Histopathology, Abnormal",13
+name,"Liver, Hepatocellular Adenoma",13
+name,"Hypertrophy, Follicular Cell",13
+name,Cardiovascular Effects,13
+name,"Cervix Histopathology, Abnormal",13
+name,"Adrenal Gland, Non-Neoplastic Lesions",13
+name,Salivation,13
+name,"Thymus, Histopathology",13
+effect_subtype,Visceral Variations,12
+name,"Cholesterol (CHOL), Total",12
+name,"Thyroid Gland Weight, Absolute (Adjusted)",12
+name,"Heart Weight, Absolute",12
+name,"Adrenal Gland Weight, Right, Absolute",12
+name,"Lung, Alveolus, Pigmentation",12
+name,"Glycogen, Liver",12
+name,"Gallbladder Histopathology, Abnormal",12
+name,"Kidney, Renal Tubule, Degeneration",12
+name,Acoustic Startle Response,12
+name,"Nose, Olfactory Epithelium, Metaplasia",12
+name,"Kidney Weight, Absolute",12
+name,"Lymph Node, Mesenteric, Histopathology",12
+name,Mean Cell Hemoglobin Concentration (MCHC),12
+name,"Adenoma or Carcinoma, Alveolar/Bronchiolar",12
+name,"Litter Size, Males",12
+name,"Thymus, Atrophy",12
+name,Age at Vaginal Opening,12
+name,"Larynx, Metaplasia, Squamous",12
+name,Live Pups Born,12
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG (2 wk)",12
+effect_subtype,Sperm Motility,12
+name,Body Weight Gain,12
+name,"Liver, Fatty Change",12
+name,"Estrous Cyclicity, Percent Regularly Cycling",12
+effect,Hepatobiliary Component,12
+effect,Aspartate Aminotransferase,12
+organ,Tongue,12
+organ,Skeletal,12
+name,"Spinal Cord, Lumbar, Axon, Degeneration",12
+name,"Peripheral Nerve Histopathology, Abnormal",12
+name,"Cholinesterase (ChE), Brain",12
+name,Neutrophils,12
+effect,Malformations,12
+name,"Lymph Node, Bronchial, Pigmentation",12
+name,"Seminal Vesicle and Coagulating Gland without Fluid Weight, Absolute (Adjusted)",12
+name,"Nose, Turbinate, Necrosis",12
+name,"Lung, Bronchiole, Epithelium, Hyperplasia",12
+name,Nucleated Erythrocytes,11
+name,Total Protein (TP),11
+name,Hemoglobin (Hb),11
+name,Calcium (CA),11
+name,"Leukocytes, Total",11
+name,"Stomach, Histopathology",11
+name,Body Weight Change (Adjusted),11
+name,"Thyroid Gland, Follicular Cell Height, Grade 2",11
+name,"Stomach, Forestomach Histopathology, Abnormal",11
+name,"Seminal Vesicle and Coagulating Gland with Fluid Weight, Absolute (Adjusted)",11
+name,Landing Foot Splay,11
+name,Prostration,11
+name,Prothrombin Time (PT),11
+name,"Lung, Alveolar Epithelium, Metaplasia, Bronchiolar",11
+name,Packed Cell Volume (PCV),11
+name,Forelimb Grip Strength,11
+name,"Estradiol, Serum",11
+name,Total Pups per Litter,11
+name,External Abnormalities,11
+name,"Inflammation, Granulomatous",11
+name,"Implantation Sites, Per Delivered Litter",11
+name,"Liver, Hepatocyte, Multinucleated",11
+name,"Liver, Hematopoietic Cell Proliferation",11
+name,"Epididymis Weight, Left, Absolute (Unadjusted)",11
+name,"Epididymis Weight, Right, Absolute (Unadjusted)",11
+name,"Heart Weight, Relative",11
+name,"Follicle Stimulating Hormone (FSH), Serum",11
+name,"Triglycerides (TRIG), Serum",11
+name,"Testis Weight, Absolute",11
+effect_subtype,Antibody Responses,11
+name,Dams with Liveborn Pups,11
+name,"Total Protein (TP), Urine",11
+name,"Lymph Node, Bronchial, Hyperplasia, Lymphoid",11
+name,"Thyroid Gland, Colloid Area, Grade 3",11
+name,"Thyroid Gland, Colloid Area, Grade 4",11
+name,Hematocrit (Hct),11
+name,"Thyroid Gland, Follicular Cell Height, Grade 3",11
+name,"Urobilinogen, Urine",11
+effect_subtype,Behavioral Function,11
+name,"Liver, Single Cell Necrosis",11
+name,Age at Vaginal Opening (Unadjusted),11
+effect_subtype,Immunologic Factor,11
+effect_subtype,Laboratory Procedure,11
+name,Low Density Lipoprotein (LDL),11
+name,"Adrenal Gland Weight, Absolute (Adjusted)",11
+name,"Prostate Weight, Relative",11
+name,Thyroid Stimulating Hormone (TSH),11
+name,Chloride (CL),11
+name,Elevated Plus Maze (Time in Open Arm),11
+system,Dermal,11
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG (5 wk)",11
+effect,Serum Protein,11
+effect,Litter Outcome,11
+effect,Coagulation,11
+name,"Organ Weights, Unspecified",10
+name,Pups Found Dead/Presumed Cannibalized,10
+name,"Pups, Live",10
+name,Reticulocytes,10
+name,"Ventral Prostate Weight, Absolute",10
+name,"Stomach, Forestomach, Histopathology",10
+name,Structural Abnormalities,10
+name,"Testes Weight, Absolute",10
+name,"Thyroid Gland Weight, Absolute (Unadjusted)",10
+effect_subtype,Skeletal Variations,10
+name,"Thyroxine (T4), Free",10
+effect_subtype,Functional Observation Battery,10
+effect_subtype,Cellular Function,10
+effect_subtype,Analytical Chemistry,10
+effect_subtype,Resporptions,10
+effect_subtype,Offspring Mortality,10
+name,"Adrenal Gland Weight, Left, Absolute",10
+effect_subtype,Organ Size,10
+effect_subtype,Neurochemical Alterations and Conduction,10
+name,Hematopoetic/lymphoreticular tissue,10
+name,"Hepatocellular Hypertrophy, Centrilobular",10
+name,Inorganic Phosphate (PHOS),10
+name,"Uric Acid, Blood",10
+name,Dentition,10
+name,Hindlimb Grip Strength,10
+name,Post-Implantation Loss,10
+name,"Aorta, Non-Neoplastic Lesions",10
+name,Potassium (K),10
+name,Pre-Implantation Loss,10
+name,"Adenoma, Nasal Respiratory Epithelium",10
+name,"Kidney, Histopathology",10
+name,"Liver, Centrilobular, Hepatocyte, Hypertrophy",10
+name,"Lung Weight, Relative",10
+name,"Lung, Alveolus, Infiltration Cellular, Histiocyte",10
+name,"Lung, Histopathology",10
+name,"Lung, Inflammation",10
+name,"Lymph Node, Mandibular, Histopathology",10
+name,Grip Strength,10
+name,"Hearing, Unspecified",10
+name,"Ovaries Weight, Relative",10
+name,Platelet (PLAT),10
+name,Estradiol,10
+name,"Ventral Prostate Weight, Absolute (Unadjusted)",10
+name,"Liver, Centrilobular Hypertrophy",10
+name,"Liver Function, BSP clearance",10
+name,"Lipids, Unspecified",10
+name,Light-Dark Box Test (Time in Light),10
+name,Leptin,10
+name,Large Unstained Cells (LUC),10
+name,"Large Intestine, Colon, Mucus Secretion Coverage Ratio",10
+name,"Lacrimal Gland Histopathology, Abnormal",10
+name,"Nasopharynx Histopathology, Abnormal",10
+name,"Body Weight, Pup (PND28)",10
+name,Figure-Eight Maze (Motor Activity),10
+name,Final Body Weight,10
+name,Glucose (GLU),10
+name,"Glucose (GLU), Urine",10
+name,"Nose, Nerve, Atrophy",10
+name,"Nose, Olfactory Epithelium, Hyperplasia",10
+name,Body Weight at Vaginal Opening (Adjusted),10
+name,Blood Urea Nitrogen (BUN),10
+name,"Brain Histopathology, Abnormal",10
+name,Lymphocyte Count (LYMPH),10
+name,"Optic Nerve Histopathology, Abnormal",10
+effect,Glucose Homeostasis,10
+effect,Tumors,10
+effect,Kidney Histopathology,10
+effect,Total Globulin,10
+organ,Salivary Glands,10
+organ,Parathyroid Gland,10
+organ,Harderian Gland,10
+organ,Pituitary Gland,10
+system,Hematopoetic,10
+organ,Bone,9
+system,Nervous System,9
+organ,Whole body,9
+organ,Ear,9
+organ,Intestine,9
+name,Urine Appearance,9
+name,Luteinizing Hormone (LH),9
+name,"Lung, Abnormality",9
+name,Lumbar Rib Variations,9
+name,"Liver, Hepatocellular Carcinoma",9
+name,"Lung, Mineralization",9
+name,"Lymphocytes, BAL Fluid",9
+name,Age at Vaginal Opening (Adjusted),9
+name,Urine Occult Blood,9
+name,"Liver, Fatty Change, Diffuse",9
+name,Live Pups per Litter,9
+name,"Neutrophils, BAL Fluid",9
+name,"Bilirubin (BILI), Urine",9
+effect_subtype,External Variations,9
+effect_subtype,Organ Measurement,9
+name,"Total Cholesterol (CHOL), Serum",9
+name,"Ventral Prostate Weight, Absolute (Adjusted)",9
+name,"Total Bilirubin (TBILI), Serum",9
+name,"Thyroid Gland, Follicular Cell Height, Grade 4",9
+name,"Testis/Epididymis Weight, Absolute",9
+name,"Thyroid Gland, Colloid Area, Grade 5",9
+name,"Ovary, Cyst",9
+effect_subtype,Non- neoplastic lesions,9
+name,Follicle stimulating hormone (FSH),9
+name,Abortions,9
+name,"Ketone, Urine",9
+name,"xxx Body Weight, Birth",9
+name,Colloid Alteration,9
+name,"Litter Size, Females",9
+name,Immune Effects,9
+name,xxx Mortality,9
+name,"Triglycerides (TRIG), Liver",9
+name,Globulin (G),9
+name,"Alveolar Macrophages, BAL Fluid",9
+name,Age at Preputial Separation (Unadjusted),9
+name,Elevated Plus Maze (Entries into Open Arms),9
+name,"Testes Weight, Relative",9
+effect_subtype,Sperm motility,9
+effect,Potassium,9
+effect,Organ Status,9
+effect_subtype,Sperm,9
+effect,Andrology,9
+effect,Fetal Survival,9
+name,Red Blood Cells (RBC),9
+name,Skin Abnormality,9
+name,"Cholinesterase (ChE), Serum",9
+name,Albumin (A),9
+name,Sodium (NA),9
+effect,Hemoglobin,9
+effect,Sodium,9
+name,White Blood Cell Count,8
+name,"XXXBody Weight, Pup",8
+name,"Zymbal's Gland Histopathology, Abnormal",8
+name,"Oral Tissue Histopathology, Abnormal",8
+name,"Oral Cavity Histopathology, Abnormal",8
+name,"Olfactory Epithelium, Metaplasia",8
+name,Number of Ossified Coccygium,8
+name,"Spinal Cord, Non-Neoplastic Lesions",8
+name,"Sodium (Na), Serum",8
+name,"Stomach, Glandular Histopathology, Abnormal",8
+name,"Stomach, Glandular, Histopathology",8
+name,"Necrosis, Nasal Olfactory Epithelium",8
+name,"Necrosis, Nasal Respiratory Epithelium",8
+name,"Neuroblastoma, Olfactory Epithelium",8
+name,"Neutrophils, Mature",8
+name,No. of Pregnancies,8
+name,"Nose, Olfactory Epithelium, Degeneration, Hyaline",8
+name,"Nose, Olfactory Epithelium, Hyperplasia, Basal Cell",8
+name,"Larynx, Squamous Epithelium, Hyperplasia",8
+name,Light-Dark Box Test (Entries into Light),8
+name,Litters With At Least One Undersized Pup,8
+name,Live Whelps Born,8
+name,"Liver, Angiectasis",8
+name,"Liver, Hepatocyte, Necrosis",8
+name,"Potassium (K), Serum",8
+name,Pregnant at Sacrifice,8
+organ,Seminal Vesicle,8
+organ,Epididymides,8
+organ,Body Weight,8
+system,Cancer,8
+organ,Esophagus,8
+name,Pup Weight Change Relative to Litter,8
+name,Prolactin (PRL),8
+organ,Skin,8
+organ,Oral Cavity,8
+name,"Pups, Dead",8
+name,Red Cell Distribution Width (RDW),8
+name,Renal Effects,8
+name,"Respiratory Epithelium, Hyperplasia, Bowman's Gland",8
+name,Malformed Fetuses,8
+name,"Lymph Nodes, Histopathology",8
+name,"Small Intestine, Ileum, Epithelial Hyperplasia",8
+name,"Small Intestine, Any Site, Epithelial Hyperplasia",8
+name,"Oviduct Histopathology, Abnormal",8
+name,"Uterus Weight, Blotted, Absolute (Unadjusted)",8
+name,"Uterus Weight, Relative to Brain",8
+name,"Nose, Olfactory Epithelium, Respiratory Metaplasia",8
+name,Malignant Lymphoma,8
+name,"Malignant Tumors, Total",8
+name,Maternal Food Consumption,8
+name,Monocyte Count (MONO),8
+name,"Thyroid Gland, Follicular Cell Height, Grade 1",8
+name,"Thyroid Gland, Hypertrophy, Follicular Cell",8
+name,"Thyroid/Parathyroid Gland Weight, Absolute",8
+name,"Thyroid/Parathyroid Gland Weight, Relative",8
+name,"Trachea, Inflammation, Chronic Active",8
+name,"Trachea, Epithelium, Regeneration",8
+name,Tremors,8
+name,Urine Osmolality,8
+name,"Spleen, Capsule, Fibrosis",8
+name,Sociability (Time in Social Zone),8
+name,"Glands, Hyperplasia",8
+name,"Lymph Node, Mesenteric Infiltration Cellular, Histocyte",8
+name,"Lymph Node Histopathology, Abnormal",8
+name,"Glands, Metaplasia, Squamous",8
+name,"Glutamate Dehydrogenase (GLDH), Blood",8
+name,"Nasal Tissue Histopathology, Abnormal",8
+name,"Motor Activity, Total",8
+name,Monocytes,8
+name,Hepatocellular Necrosis,8
+name,Hepatocellular Adenoma,8
+effect,Glucose,8
+effect,Estrous Cycle,8
+effect,Morphology,8
+effect,Metabolite Concentration,8
+name,"Dorsolateral Prostate Weight, Absolute (Adjusted)",8
+name,Deficient Ossification of Sternebrae,8
+name,Eosinophil Count (EO),8
+name,"Dorsolateral Prostate Weight, Absolute (Unadjusted)",8
+name,"Epididymis Weight, Left, Absolute (Adjusted)",8
+name,"Epididymis Weight, Right, Absolute (Adjusted)",8
+name,Gallbladder Histopathology,8
+name,Femur Histopathology,8
+name,"Adiponectin, Serum",8
+name,"Adrenal Cortex, Ceroid Pigmentation",8
+name,Abnormal Gait,8
+name,"Abnormalities in Stillborn Kits, Frequency",8
+name,"Adrenal Cortex, Hypertrophy",8
+name,"Adrenal Gland Weight, Absolute",8
+name,Hypertrophy/Hyperplasia,8
+name,"Histopathology, Unspecified",8
+name,"Body Weight, Pup (PND70-98)",8
+name,"Brain Weight, Relative",8
+name,"Inflammation, Bronchial Submucosal Glands",8
+name,Implantation Index,8
+name,Interrupted Pregnancies,8
+name,"Intestine, Any Site, Epithelial Hyperplasia",8
+name,"Kidney, Renal Tubule, Karyomegaly",8
+name,"Kidney Weight, Right, Relative to Brain",8
+name,"Calcium (CA), Serum",8
+name,"Clinical Observation Endpoints, Unspecified",8
+name,"Lactate Dehydrogenase (LDH), Blood",8
+name,"Larynx, Respiratory Epithelium, Metaplasia, Squamous",8
+name,"Liver, Oval Cell, Hyperplasia",8
+name,"Liver, Mixed Cell Focus",8
+name,Creatinine,8
+name,Clitoral Gland Histopathology,8
+effect,Urea,8
+effect,Phosphorous,8
+effect,Red Cell Distribution Width,8
+name,Heart and Aorta Histopathology,8
+effect,Chloride,8
+name,"Lung, Carcinoma, Alveolar/Bronchiolar",8
+name,"Lung, Adenoma, Alveolar/Bronchiolar",8
+name,"Lung Weight, Absolute",8
+name,"Lymph Node, Bronchial Histopathology, Abnormal",8
+name,"Lymph Node, Mandibular Histopathology",8
+name,"Lymph Node, Mesenteric Histopathology",8
+name,"Body Weight, Pup (PND28-63)",8
+name,Body Weight at Vaginal Opening (Unadjusted),8
+name,"Benign and Malignant Tumors, Total",8
+name,Basophils,8
+name,"Body Weight, Pup (PND1-21)",8
+name,"Body Weight, Pup (PND21)",8
+effect_subtype,Abnormality,8
+name,"Alanine Aminotransferase (ALT), Blood",8
+name,Age at Preputial Separation (Adjusted),8
+effect_subtype,Hypertension,8
+name,"Adrenal Gland, Histopathology",8
+name,"Adrenal Gland Weight, Relative",8
+name,Basophil Count (BASO),8
+name,Crown-Rump Length,8
+name,Creatinine (CREAT),8
+effect_subtype,Urea Cycle,8
+effect_subtype,Mammary Gland Development,8
+effect_subtype,Follicle,8
+effect_subtype,Measured in Liver,8
+effect_subtype,Lung Development,8
+effect_subtype,Estrogenic Steroid,8
+name,"Inorganic Phosphorous (PHOS), Serum",7
+name,"Epididymis Weight, Right, Relative",7
+name,"Ovary Weight, Absolute (Adjusted)",7
+name,"Liver Cholesterol (CHOL), Total",7
+name,Cardiac Sensitization,7
+name,"Ovary Weight, Left, Absolute",7
+name,"Ovary Weight, Relative to Brain Weight",7
+name,Water Consumption,7
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG3 (2 wk)",7
+name,"Hyperplasia, Severity",7
+name,"Lactate Dehydrogenase (LDH), BAL Fluid",7
+name,"Pancreas, Hyperplasia, Acinar Cell",7
+name,Hydronephrosis,7
+name,"Total Protein (TP), Liver",7
+name,No. Pups with Gross Malformations,7
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG2b (2 wk)",7
+name,"Parathyroid Gland, Histopathology",7
+name,"Spleen Histopathology, Abnormal",7
+name,"Mammary Gland, Lobular, Hyperplasia",7
+name,"Peripheral Nerve, Axon, Degeneration",7
+name,Prostate Gland Histopathology,7
+name,"Antibody Forming Cells (AFCs) per 10^6 Spleen Cells, Plaque Forming Cell Assay",7
+name,"Peripheral Nerve, Sciatic, Axon, Degeneration",7
+name,Pharynx Histopathology,7
+name,Hepatocellular Carcinoma,7
+name,Phosphorous (PHOS),7
+name,Gastrointestinal Effects,7
+name,"Body Length, Pup",7
+name,"Nose, Goblet Cell, Hyperplasia",7
+name,"Alkaline Phosphatase (ALP), Blood",7
+name,"Thyroid Gland, Colloid Area, Grade 2",7
+effect_subtype,Protein,7
+name,"Liver, Inflammation, Chronic",7
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG1 (2 wk)",7
+effect_subtype,Cell Count,7
+name,"Fetuses, Dead",7
+name,"Nose, Inflammation, Chronic Active",7
+name,"Palate, Cleft",7
+name,"Kidney Weight, Right, Relative",7
+name,"Thyroxine (T4), Brain",7
+name,"Testis Weight, Relative",7
+name,Total Litter Loss,7
+name,Mean Pups Delivered,7
+name,"Kidney, Cell Proliferation",7
+name,Mean Arterial Pressure,7
+name,Mean Arterial Blood Pressure (MAP),7
+name,Liver Triglycerides (TRIG),7
+name,"Cholesterol (CHOL), Total, Serum",7
+name,Copulation Index,7
+name,"Glucose, Urine (GLU)",7
+name,Endocrine Effects,7
+name,"Liver, Hepatoblastoma",7
+name,Packed Cell Volume,7
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG2a (2 wk)",7
+name,"Triiodothyronine (T3), Brain",7
+effect_subtype,Increased incidence,7
+effect_subtype,Bilirubin Cycling,7
+effect_subtype,Blood,7
+name,Skeletal Alterations,7
+name,"Skeletal Muscle, Non-Neoplastic Lesions",7
+name,"Esophagus, Non-Neoplastic Lesions",7
+name,"Glucose (GLU), Blood",7
+name,"Ventral Prostate Weight, Relative",7
+name,Body Tremors,7
+name,Gross Pathology,7
+organ,Teeth,7
+organ,Rib,7
+organ,Urinary Bladder,7
+effect,PFHxA Tissue Concentration,7
+organ,Tooth,7
+organ,Cervix,7
+effect,Cognition,7
+effect,Albumin/Globulin Ratio,7
+effect,Mortality,7
+effect,Organic Chemical,7
+name,"Hyperplasia, Follicular Cell",7
+name,Total Bilirubin,7
+name,"Liver, Hepatocyte, Cytoplasmic Alteration",7
+name,"Litter Size, Total",7
+name,"Liver, Toxic Hepatopathy",7
+name,First Estrus,7
+name,Epididymis Sperm Count,7
+name,"Thyroid Weight, Absolute",7
+name,"Creatinine (CREAT), Urine",6
+name,Respiratory Effects,6
+name,"Cervix, Non-Neoplastic Lesions",6
+name,"External Malformations, Total",6
+name,"Adenoma, Alveolar/Bronchiolar",6
+name,"Esophagus, Histopathology",6
+name,"Harderian Gland, Histopathology",6
+effect_subtype,Urinalysis,6
+effect_subtype,Necrosis,6
+effect_subtype,Malignant,6
+effect_subtype,Preneoplastic Lesion,6
+effect_subtype,Creatinine,6
+name,"Intestine Large, Rectum Inflammation, Chronic Active",6
+name,"Testis/Epididymis Weight, Relative to Brain",6
+name,"Pituitary Gland, Adenoma",6
+name,Sucrose Preference,6
+name,Age at Preputial Separation,6
+name,Surviving Pups Per Litter,6
+name,"Lymph Node, Mandibular, Hyperplasia",6
+name,"Brain Weight, Absolute",6
+name,"Tail Length, Pup",6
+name,"Lymph Node, Histopathology",6
+name,Preputial Gland Histopathology,6
+name,Urine Total Protein (TP)/Creatinine,6
+name,Soft Tissue Alterations,6
+name,Pacing Test (Percentage of Intromission Leave),6
+name,"Large Intestine, Colon, Inflammatory Coverage Ratio",6
+name,Total Cholesterol (CHOL),6
+name,"Uterus Weight, Wet, Absolute (Unadjusted)",6
+name,Banded Neutrophils,6
+name,"Small Intestine, Jejunum, Histopathology",6
+name,"Ovary Weight, Absolute (Unadjusted)",6
+effect,Calcium,6
+name,Sociosexual Choice (Time Near a No-hormone Stimulus Animal),6
+name,Hyperactivity,6
+name,"Body Weight, Pup (PND105)",6
+effect,Ophthalmology,6
+effect,Creatinine,6
+name,Lacrimation,6
+name,"Parotid Gland, Histopathology, Abnormal",6
+name,"Bone Marrow, Atrophy",6
+name,Partial Thromboplastin Time (PTT),6
+name,"Mammary Gland, Dilatation",6
+name,Albumin,6
+name,"Sodium (Na), Blood",6
+name,"Total Bilirubin (TBILI), Blood",6
+name,Hunched Posture,6
+name,Corpora Lutea,6
+name,"Ovary, Dysgenesis",6
+name,Pacing Test (Approach Latency),6
+name,"Pancreas, Histopathology",6
+name,"Pancreas, Inflammation, Chronic Active",6
+organ,Pelvis,6
+organ,Zymbal's Gland,6
+effect,Mating and Fertility,6
+effect,Platelet Count,6
+effect,Inflammatory Cytokines,6
+effect,Mean Corpuscular Hemoglobin,6
+effect,Mean Corpuscular Hemoglobin Concentration,6
+effect,Total Protein,6
+effect,Albumin,6
+effect,Mean Corpuscular Volume,6
+effect,Hemorrhage,6
+effect,Organ weight,6
+name,Gamma-glutamyl Transpeptidase (GGT),6
+name,"Uterus Histopathology, Abnormal",6
+name,"Lymph Node, Tracheobronchial Histopathology, Abnormal",6
+name,"Gamma-Glutamyl Transferase (GGT), Serum",6
+name,"Adrenal Gland Weight, Right, Relative to Brain",6
+name,"Adrenal Gland Weight, Left, Relative to Brain",6
+name,Pacing Test (Percentage of Mount Leave),6
+name,Pacing Test (Postejaculatory Refractory Period),6
+name,Hepatocellular Vacuolation,6
+name,Metabolic Effects,6
+name,"Pancreas Weight, Relative",6
+name,"Body Weight, Pup (PND49)",6
+name,Urine Ketones,6
+name,"Body Weight, Pup (PND77)",6
+name,Persistent Nodule,6
+name,Developmental Effects,6
+name,"Sternum with Bone Marrow Histopathology, Abnormal",6
+name,"Pharynx, Non-Neoplastic Lesions",6
+name,Early and Late Fetal Mortality,6
+name,Social Novelty (Time in Proximity to Stimulus Animal - Novel),6
+name,Congenital Abnormalities,6
+effect,No Effects,6
+name,"Total Cell Count, BAL Fluid",6
+name,Nasal Cavity Histopathology,6
+name,Hypertrophy,6
+name,"Body Weight Change, Gestation",6
+name,Body Weight at Preputial Separation (Adjusted),6
+name,Body Weight at Preputial Separation,6
+name,Very Low Density Lipoprotein (VLDL) and Chylomicron Cholesterol (CHYL),6
+name,Pacing Test (Intromission Return Latency),6
+name,Pacing Test (Mount Return Latency),6
+name,Large Unstained Cells,6
+name,Food Efficiency,6
+name,"Phospholipid, Plasma",6
+name,"Kidney, Renal Cell Adenoma",6
+organ,Seminal Vesicles,6
+organ,Skeletal Muscle,6
+organ,Naso-Pharyngeal Tract,6
+name,"Bone with marrow, Histopathology",6
+system,Hematological,6
+organ,Optic Nerve,6
+organ,Sternebra,6
+name,"Brain, Histopathology",6
+name,"Placenta Weight, Absolute",6
+name,Plasma Urea,6
+name,Terminal Body Weight,6
+name,"Triglycerides (TRIG), Blood",6
+name,"Testes Weight, Left, Absolute",6
+name,"Percent Motility, Sperm",6
+name,Stained Fur,6
+name,Developmental Abnormalities,6
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG1 (5 wk)",6
+name,"Liver, Mineralization",6
+name,"Liver, Hypertrophy",6
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG3 (5 wk)",6
+name,"Nose, Inflammation",6
+effect,Developmental Effects,6
+name,Sociosexual Choice (Time Near a Hormone Stimulus Animal),6
+name,"Urinary Bladder, Dilatation",6
+name,Liver Cholesterol,6
+name,Cholesterol (CHOL),6
+name,"Cholesterol (CHOL), Liver",6
+name,"Adrenal Weight, Relative",6
+effect_subtype,Measured in Spleen,6
+name,Social Novelty (Time in Proximity to Stimulus Animal - Familiar),6
+name,"Leukocytes, Urine",6
+name,"Uterus, Hydrometra",6
+name,"Complement Component 3 (C3c), Renal Mesangial",6
+name,"Kidney, Accumulation, Hyaline Droplet",6
+name,"Potassium (K), Blood",6
+name,Pre-coital Interval,6
+name,"Kidney Weight, Left, Relative",6
+name,"Food Consumption, Absolute",6
+name,Hematocrit (HCT),6
+name,"Testis/Epididymis Weight, Relative",6
+name,"Lymph Node, Cervical Histopathology, Abnormal",6
+name,"Trachea, Histopathology",6
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG2a (5 wk)",6
+name,"Feed Consumption, Absolute",6
+name,"Thyroid Gland, Histopathology",6
+name,"Glutathione (GSH), Kidney",6
+name,"Novel Object Recognition, Short Term Memory, Recognition Index",6
+name,"Novel Object Recognition, Long Term Memory, Recognition Index",6
+name,"Nose, Histopathology",6
+name,"Albumin/Globulin (A/G) Ratio, Serum",6
+name,"Olfactory Epithelium, Degeneration/Necrosis (Level IV)",6
+name,Open Field Test (Locomotor Activity),6
+name,Water Intake,6
+name,"No. of Pups, Stillborn",6
+name,Fertility Index,6
+name,Immunoblastic Cell Proliferation,6
+name,"Body Weight Growth Rate, Pup",6
+name,Abortion,6
+name,"Skin Histopathology, Abnormal",6
+name,"Body Weight, Kit",6
+name,"Thyroid, Histopathology",6
+name,"Thyroid/Parathyroid Gland Weight, Relative to Brain",6
+name,"Urinary Bladder, Histopathology",6
+name,Activity Level,6
+name,"Feed Consumption, Relative",6
+name,"Liver, Cholangiofibrosis",6
+name,"Immunoglobulin M (IgM), Renal Mesangial",6
+effect_subtype,Glucose Clearance,6
+name,Unkempt Appearance,6
+name,Urea,6
+name,"Salivary Gland, Histopathology",6
+name,Implantations/Litter,6
+name,"Sciatic Nerve, Non-Neoplastic Lesions",6
+name,"Liver, Hyperplasia, Bile Duct",6
+name,Urine Bile Pigments,6
+name,"Cellular Infiltration, Lymphocyte",6
+name,"Heart, Histopathology",6
+name,Fluoride (Plasma),6
+name,"Liver, Hepatocellular Vacuolation, Cytoplasmic",6
+name,Uric Acid,6
+name,Pup Mortality,6
+name,"Adrenal Weight, Absolute",6
+name,"Eye, Histopathology",6
+name,Cholesterol,6
+name,"Novelty-Suppressed Feeding Test, Latency to Feeding",6
+name,"Novelty-Suppressed Feeding Test, Total Intake",6
+effect_subtype,Nephropathy,6
+name,"Lung, Alveolus, Proteinosis",6
+name,"Ketones, Urine",6
+name,Heinz Bodies,6
+name,"Active Avoidance Behavior, Latency",6
+name,"Lung With Trachea and Larynx Weight, Relative",6
+name,"Lung With Trachea and Larynx Weight, Absolute",6
+name,Urine Total Reducing Substances,6
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG2b (5 wk)",6
+name,Pregnancy Index,6
+name,"Locomotor Test, Ambulatory Counts",6
+name,Locomotor Activity,6
+effect_subtype,No Efffects,6
+effect_subtype,Total Protein,6
+effect_subtype,Respiration,6
+effect_subtype,Liver Histopathology,6
+name,Glycogen Content,5
+name,Serum Urea,5
+name,"Resorptions, Percent/Litter",5
+name,Uterine Thickness,5
+name,"Anogenital Distance (AGD), Relative",5
+name,"Leuteinizing Hormone (LH), Serum",5
+name,Tooth Findings,5
+name,Clinical Signs of Nervous System Toxicity,5
+name,"Decrease of Corpora Lutea, Increase in Number of Cystic Follicles",5
+name,"Lung Histopathology, Densitometric Analysis",5
+name,"Auditory Brainstem Response (ABR), Hearing Threshold, 16 kHz",5
+name,"Lung Histopathology, Abnormal",5
+name,"Age at Preputial Separation, Completion",5
+name,"Straight Line Velocity, Sperm",5
+name,"Auditory Brainstem Response (ABR), Hearing Threshold, 2 kHz",5
+name,"Pup Loss, Cumulative",5
+name,"Kidney, Papilla, Urothelium, Hyperplasia",5
+name,"Catalase (CAT) Activity, Liver",5
+name,"Auditory Brainstem Response (ABR), Hearing Threshold, 4 kHz",5
+name,"Liver, Bile Duct Hyperplasia",5
+name,Nipple Retention,5
+name,"Ovary Weight, Absolute",5
+name,"Rib, Supernumerary",5
+name,"Auditory Brainstem Response (ABR), Hearing Threshold, 8 kHz",5
+name,"Lymph Node, Bronchial, Hyperplasia",5
+name,"Kidney, Proximal Tubule, Nuclear Enlargement",5
+name,"Small Intestine, Jejunum, Epithelial Hyperplasia",5
+name,Live Litter Size,5
+name,"Creatine Kinase (CK), Blood",5
+name,"Luteinizing Hormone (LH), Serum",5
+name,Hepatocellular Adenoma or Carcinoma (Combined),5
+name,Platelets,5
+name,"Heart, P-Q Interval",5
+name,Other Cells,5
+name,"Aspartate Aminotransferase (AST), Blood",5
+name,"Stomach, Forestomach, Inflammation, Chronic Active",5
+name,Urine Haem Pigments,5
+name,Reticulocytes (RET),5
+name,Oral Glucose Tolerance Test,5
+name,"Open Field Test, Time Spent in Center",5
+name,"Kidney, Karyomegaly",5
+name,"Adrenal Cortex, Cytoplasmic Vacuolization",5
+name,Peribronchial Lymphoid Hyperplasia,5
+name,"Uterus Weight, Blotted, Absolute (Adjusted)",5
+name,Percent Pregnant,5
+name,Estrous Cycle,5
+name,Anogential Distance (AGD),5
+name,Enlarged and Branched Mitochondria,5
+name,"Spleen, Small",5
+name,"Percent Linearity, Sperm",5
+name,Passive Avoidance Behavior (24 h),5
+name,"Curvilinear Velocity, Sperm",5
+name,"Thymus Histopathology, Abnormal",5
+organ,Paw,5
+organ,Multiple Organs,5
+organ,Skeleton,5
+name,"Heart, Q-T Interval",5
+name,"Heart, Functional Range",5
+name,"Mammary Gland, Hyperplasia",5
+name,Postimplantation Loss,5
+name,"Albumin (A), Blood",5
+name,"Fatty Acids, Total",5
+name,Affiliative Behavior (Number of Nape Contact),5
+name,"Nose, Inflammation, Chronic",5
+name,Triiodothyronine (T3),5
+name,"Liver, Non-Neoplastic Lesions",5
+name,Maternal Body Weight,5
+name,"Total Protein (TP), Blood",5
+name,"Thyroid Gland, Follicular Cell Height, Grade 5",5
+name,"Kidney, Cytoplasmic Basophilia",5
+name,"β2-Microglobulin, Urine",5
+name,"Hematology, Unspecified, Recovery",5
+name,Mating Index,5
+name,"Testes, Atrophy",5
+effect,Pathology,5
+effect,Concentration,5
+effect,Litter Size,5
+name,"Testis Weight, Left, Absolute (Adjusted)",5
+name,Early Fetal Mortality,5
+name,"Pup Birth Weight, PND1",5
+name,"Clinical Chemistry, Unspecified, Recovery",5
+name,Spermatid Heads/Testis,5
+name,"Nose, Olfactory Epithelium Degeneration",5
+name,"Pancreas, Acinus, Atrophy",5
+name,"Pancreas, Acinar Cell Adenoma or Adenocarcinoma (Combined)",5
+name,"Mean Litter Size, Liveborn",5
+name,"Pancreas, Acinar Cell Adenoma",5
+name,"Pup Body Weight, PND 14",5
+name,"Testis Weight, Left, Absolute (Unadjusted)",5
+name,Mean Survival Time,5
+name,"Testis Weight, Left, Relative",5
+name,Adrenal Cortex Histopathology,5
+name,Tumors,5
+name,Spermatid Heads/g Testis,5
+name,"Alkaline Phosphatase (ALP), Urine",5
+name,"Fetuses, Live",5
+name,Red Blood Cell (RBC),5
+name,Midbrain Dopamine (14 d),5
+name,Midbrain Dopamine (2 d),5
+name,Midbrain Dopamine (7 d),5
+name,"Testis Weight, Right, Absolute (Unadjusted)",5
+name,"Pup Body Weight, PND 22",5
+name,Number of Pups Born to Implant Ratio,5
+name,"Total Cholesterol (CHOL), Liver",5
+name,"Uterus Weight, Wet, Absolute (Adjusted)",5
+name,"Adrenal, Non-Neoplastic Lesions",5
+name,"Liver, Lesion",5
+name,Cytoplasmic Vacuolation,5
+name,"CAP Threshold Shift, 1 kHz",5
+name,"Fetal Malformations, Total",5
+name,"Liver, Focal Necrosis",5
+name,Body Weight at Preputial Separation (Unadjusted),5
+name,"Heart, Chronic Myocardial Degeneration",5
+name,Body Weight F1,5
+name,"Dorsolateral Prostate Weight, Relative",5
+name,"Dorsolateral Prostate Weight, Absolute",5
+name,"Fat Mass, Absolute",5
+name,Number of Fetuses,5
+name,"Iron, Plasma",5
+name,"Body Weight Change, Recovery",5
+name,"Epididymis Weight, Absolute",5
+effect_subtype,Measured in Serum,5
+effect_subtype,Anogenital Distance,5
+effect_subtype,Clinical Observations,5
+effect_subtype,Enlarged and Branched Mitochondria,5
+name,"Body Weight Change, Offspring",5
+effect_subtype,Narcosis,5
+effect_subtype,Organ Volume,5
+effect_subtype,Organ Weight Relative to Body,5
+effect_subtype,Sex Ratio,5
+effect_subtype,Sperm Parameters,5
+effect_subtype,White Adipose Tissue,5
+name,"Liver, Hepatocyte, Single Cell Death",5
+name,"Thyroid Weight, Relative",5
+name,Renal Function (PSP),5
+name,"Liver, Inflammation, Subacute",5
+name,"Not Decrease of Corpora Lutea, Increase in Number of Cystic Follicles",5
+name,Narcosis,5
+name,"Epididymis, Hypospermia",5
+name,"Pup Body Weight, PND 6",5
+name,"Globulin (G), Serum",5
+name,Band Neutrophils,5
+name,Pupillary Reflex,5
+name,"Urea Nitrogen, Urine",5
+name,"Testosterone (T), Testis",5
+name,"Cauda Epididymis Weight, Right, Relative",5
+name,"Nasal Cavity, Turbinates, Rhinitis",5
+name,"Lung Weight, Relative to Brain",5
+name,Interleukin 10 (IL-10),5
+name,"Estrous Cycle, Length",5
+name,"Cholesterol (CHOL), Total, Liver",5
+name,"Glutathione (GSH), Liver",5
+name,"Body Weight, Pup (PND1)",5
+name,"Data are extracted under Faber, 2006, 818624",5
+name,Necropsy Appeared Normal,5
+name,"Cholesterol (CHOL), Total, Blood",5
+name,Necrosis,5
+name,"Kidney, Medulla, Mineralization",5
+effect_subtype,Hepatocellular Hypertrophy,5
+name,"Thiobarbituric Acid Reactive Substances (TBARS), Liver",4
+name,Female Pup Weight Relative to Litter,4
+name,Adversely Affected Implants / Litter,4
+name,"DPOAE Threshold Shift, 8 kHz",4
+name,"Follicle Count, Primordial",4
+name,Focal Necrosis,4
+name,"Fetal Variations, Total",4
+name,Thrombocyte Count,4
+name,Thrombotest,4
+name,"Thymic Cellularity, CD4-CD8-",4
+name,"Thymic Cellularity, CD4+",4
+name,"Thymic Cellularity, CD4+CD8+",4
+name,"Thymic Cellularity, CD8+",4
+name,"Thymic Cellularity, Cells per thymus weight",4
+name,"Affiliative Behavior (Day 2, Stimulus, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 2, Stimulus, Flat Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 2, Pre-stimulus, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 2, Pre-stimulus, Flat Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 2, Post-stimulus, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Thymus, Lymphoid Depletion",4
+name,"Thyroid and Pituitary, Histopathology",4
+name,Fixed Interval Performance (Stable-State Responses 60 seconds),4
+organ,"Skin, Subcutaneous Tissue",4
+organ,Thyroid with Parathyroid,4
+organ,"Lungs and Bronchi, Trachea",4
+system,Digestive,4
+system,Liver,4
+system,Special Senses,4
+system,Immunological,4
+system,Auditory,4
+name,β2-Microglobulin,4
+name,"Thyroid/Parathyroid Gland Weight, Right, Absolute",4
+name,"Thyroid/Parathyroid Gland Weight, Right, Relative",4
+name,"Thyroid/Parathyroid Gland Weight, Right, Relative to Brain",4
+name,Adrenal Medulla Histopathology,4
+name,"Adrenal Glands, Non-Neoplastic Lesions",4
+name,"Adrenal Glands, Corticomedullary Junction, Hemorrhage",4
+name,"Tongue Histopathology, Abnormal",4
+organ,"Bone Marrow, Spleen, Lymph Nodes",4
+organ,"Heart, Aorta, Mesenteric Artery",4
+organ,"Kidney, Urinary Bladder",4
+organ,"Eye, Optic Nerve",4
+organ,Mouth,4
+organ,Forestomach,4
+organ,Sternum,4
+organ,"Sternum, Femur",4
+organ,Sebaceous Gland,4
+organ,"Stomach, Bile Duct, Gallbladder, Esophagus, Small Intestine, Large Intestine, Salivary Gland",4
+organ,Systemic,4
+organ,"Dermal, Immune, Cardiovascular, Gastrointestinal, Nervous, Hepatic, Hematopoietic, Respiratory, Renal, Reproductive, Endocrine",4
+organ,"Liver, Gallbladder",4
+name,Total Litters Produced in 60 Days,4
+name,Total Liver Lipids,4
+name,Total Peripheral Resistance (TPR),4
+name,"Adrenal Gland, Neoplasms",4
+name,"Total Protein (TP), Recovery, Blood",4
+name,"Adrenal Gland, Cortex, Cytoplasmic Vacuolization",4
+name,"Trachea, Epithelium, Degeneration",4
+name,"Trachea, Epithelium, Hyperplasia",4
+name,"Trachea, Epithelium, Necrosis",4
+name,XXXLitter Size,4
+name,"Trachea, Tracheitis, Subacute",4
+name,"Translocation, Sperm",4
+organ,Mediastinum,4
+organ,Mammary,4
+organ,Salivary Gland,4
+organ,"Pituitary, Adrenal, Thyroid, Parathyroid",4
+name,Excess Salivation (Day Onset),4
+name,XXXLitters Delivered,4
+effect,Fluoride,4
+effect,Hormone Levels,4
+effect,Neurotransmitter Levels,4
+effect,Albumin/Globulin (A/G) Ratio,4
+effect,Congestion/Erythrophagocytosis,4
+effect,Cellular Damage,4
+effect,Maternal Effect,4
+effect,Platelet,4
+name,"Adrenal Gland, Pheochromocytoma, Malignant",4
+name,"Adrenal Gland, Pheochromocytoma, Benign",4
+name,"Total Lipids, Liver",4
+effect_subtype,Inorganic Chemical,4
+name,Excitation,4
+name,Exorbital Lacrimal Gland Histopathology,4
+name,External Alterations,4
+name,"Adrenal Cortex, Vacuolization Cytoplasmic",4
+name,Triglycerides (TRIG),4
+name,"Tumor Necrosis Factor Alpha (TNF-α), Lung",4
+name,"Adipose Tissue Histopathology, Abnormal",4
+name,"Adenoma, Respiratory Epithelium",4
+name,"Epididymides Weight, Absolute",4
+name,"Epididymis, Exfoliated Germ Cell",4
+name,Erosion,4
+name,Epididymides Histopathology,4
+name,Eosinophils (%),4
+name,"Esophagus, Rupture",4
+name,Eosinophilic Staining of Centrilobular Hepatocytes,4
+effect_subtype,Enlarged Organ,4
+name,Total Bilirubin (TBILI),4
+effect_subtype,Split and Shortened RER,4
+effect_subtype,Lipid,4
+effect_subtype,Thrombocytes,4
+effect_subtype,Cytochrome P-450 Activity,4
+effect_subtype,Creatinine Kinase,4
+effect_subtype,SER Proliferation,4
+effect_subtype,Maternal Water Consumption,4
+effect_subtype,BALF,4
+effect_subtype,Neurophysiologic/Sensory Function,4
+effect_subtype,Physiological Function,4
+effect_subtype,Laboratory Measurement,4
+effect_subtype,Discolored,4
+effect_subtype,Puberty,4
+effect_subtype,Multi-Effect,4
+effect_subtype,Litter Size,4
+effect_subtype,Fluid Mass,4
+effect_subtype,Fat Mass,4
+effect_subtype,[Null],4
+name,"Ear Histopathology, Abnormal",4
+name,"Forced Swimming Test, Floating Time",4
+name,"Forced Swimming Test, Latency to Floating",4
+name,"DPOAE Threshold Shift, 5.6 kHz",4
+name,"Forestomach, Epithelium, Hyperplasia",4
+name,Fraction AFA Positive,4
+name,"Free Cholesterol (CHOL), Blood",4
+name,"Frontal Cortex, Left",4
+name,"Frontal Cortex, Right",4
+name,"Frontal Cortex, Thickness",4
+name,Functional Observation Battery: Vocalizing,4
+name,"Adenoma, Alveolar",4
+name,"DPOAE Threshold Shift, 4 kHz",4
+name,Gamma-Glutamyl Transferase (GGT),4
+name,"Gamma-Glutamyl Transferase (GGT), BAL Fluid",4
+name,"Gamma-Glutamyl Transferase (GGT), Blood",4
+name,Gestational Length,4
+name,GHbA1c,4
+name,"Urinary Bladder Histopathology, Abnormal",4
+name,"Glandular Stomach, Erosion",4
+name,Globulin,4
+name,"Globulin (G), Blood",4
+name,"Globulin, alpha 1",4
+name,"Globulin, alpha 2",4
+name,"Globulin, beta",4
+name,"Globulin, gamma",4
+name,"DPOAE Threshold Shift, 16 kHz",4
+name,"DPOAE Threshold Shift, 11.3 kHz",4
+name,DNA Adduct Formation,4
+name,Glutamate Dehydrogenase (GLDH),4
+name,"Glutamic Oxaloacetic Transaminase (GOT), Plasma",4
+name,"Glutamic Pyruvic Transaminase (GPT), Plasma",4
+name,Gravid Uterine Weight,4
+name,"Harderian Gland Histopathology, Abnormal",4
+name,Hearing Threshold Shift,4
+name,"Heart, Fibrinopurulent Pericarditis, Gavage Induced",4
+name,"Heart, Non-Neoplastic Lesions",4
+name,"Heart, Pericarditis, Fibrinopurulent",4
+name,"Heart, Pericardium, Subepicardial Areas of Atrium, Inflammation, Fibrinopurulent",4
+name,Hematological Effects,4
+name,"Hemolymphoreticular System Histopathology, Abnormal",4
+name,"Hemolysins, Serum",4
+name,"Urinary Bladder, Transitional Epithelium, Eosinophilic Granules, Cytoplasmic",4
+name,"Hepatocellular Hypertrophy, Centrilobular (Severity)",4
+name,Urinary Sediment,4
+name,Hepatocellular Pigment,4
+name,Dermal Effects,4
+name,"Dentate, Right",4
+name,"Hippocampal Gyrus, Left",4
+name,"Hippocampal Gyrus, Right",4
+name,"Hippocampal Gyrus, Thickness",4
+name,"Histiocytosis, Alveolar",4
+name,HOMA-IR,4
+name,"Hyperplasia, Area Affected",4
+name,"Dentate, Left",4
+name,Death of Whole Litter,4
+name,Dead Pups per Litter,4
+name,Urine Alkaline Phosphatase (ALP),4
+name,Immature Granulocytes,4
+name,Dams with Stillborn Pups,4
+name,"Immunoglobulin E (IgE), Serum (10 wk)",4
+name,"Immunoglobulin E (IgE), Serum (2.5 wk)",4
+name,"Immunoglobulin G (IgG), Cerebellum",4
+name,"Immunoglobulin G (IgG), Cortex",4
+name,"Immunoglobulin G (IgG), Frontal Cortex",4
+name,"Immunoglobulin G (IgG), Hippocampus",4
+name,"Immunoglobulin G (IgG), Hypothalamus",4
+name,"Immunoglobulin G (IgG), Serum (PND21)",4
+name,"Immunoglobulin G (IgG), Serum (PND70)",4
+name,"Immunoglobulin G (IgG), Striatum",4
+name,"Immunoglobulin G (IgG), Substantia Nigra",4
+name,Dams with Fetuses with Cleft Palate,4
+name,Implantation Efficiency,4
+name,Implantation Sites,4
+name,Implantation Sites / Litter,4
+name,"Implantations, Total",4
+name,Incisor Histopathology,4
+name,Increased Mitosis (>20 per lobe),4
+name,Increased Mitosis (11-20 per lobe),4
+name,Increased Mitosis (2-5 per lobe),4
+name,Increased Mitosis (6-10 per lobe),4
+name,Increased Mitosis (Total Incidence),4
+name,Cytochrome P-450 Activity,4
+name,Inflammatory Cell Foci,4
+name,Inorganic Phosphorous (PHOS),4
+name,"Inorganic Phosphorous (PHOS), Blood",4
+name,"Intestine Large, Rectum Infiltration Cellular, Histiocyte",4
+name,Urine Gamma-Glutamyl Transferase (GGT),4
+name,Creatinine Kinase (CK),4
+name,Kidney Histopathology (8 wk),4
+name,"Kidney Histopathology, Abnormal",4
+name,"Creatinine (CREAT), Plasma",4
+name,"Kidney Weight, Left, Absolute",4
+name,"Creatine Phosphokinase, Plasma",4
+name,"Kidney Weight, Right, Absolute",4
+name,Urine Glucose/Creatinine,4
+name,"Kidney, Cortical Tubular Dilation, Multifocal",4
+name,"Kidney, Glomerulopathy, Hyaline",4
+name,"Creatine Kinase (CK), Serum",4
+name,"Kidney, Hyaline Droplet Nephropathy",4
+name,"Kidney, Lymphocytic Infiltrate, Focal",4
+name,"Kidney, Papilla, Necrosis",4
+name,"Kidney, Pelvis, Dilation",4
+name,"Kidney, Pigmentation",4
+name,"Kidney, Plasma Cell Infiltrate, Focal",4
+name,"Kidney, Proximal Tubule, Necrosis",4
+name,"Kidney, Renal Cell Carcinoma",4
+name,Cortical Norepinephrine (7 d),4
+name,"Kidney, Renal Tubule, Hyperplasia",4
+name,"Kidney, Renal Tubule, Mineralization",4
+name,"Kidney, Tubular Basophilia",4
+name,Lacrimal Gland Histopathology,4
+name,Cortical Norepinephrine (2 d),4
+name,Cortical Norepinephrine (14 d),4
+name,Cortical Dopamine (7 d),4
+name,"Large Intestine, Cecum, Epithelial Hyperplasia",4
+name,"Large Intestine, Cecum, Histopathology",4
+name,Cortical Dopamine (2 d),4
+name,"Large Intestine, Colon, Histopathology",4
+name,Cortical Dopamine (14 d),4
+name,"Large Intestine, Colon, Parasitosis",4
+name,"Corpus Callosum, Thickness",4
+name,"Corpus Callosum, Right",4
+name,"Large Intestine, Rectum, Histopathology",4
+name,Large Monocytes,4
+name,"Corpus Callosum, Left",4
+name,"Contextual Fear Conditioning, Short Term Memory, Freezing Time",4
+name,"Larynx, Non-Neoplastic Lesions",4
+name,"Larynx, Respiratory Epithelium, Hyperplasia",4
+name,Urine Microscopy,4
+name,"Larynx, Respiratory Epithelium, Regeneration",4
+name,Late Fetal Deaths / Litter,4
+name,"Contextual Fear Conditioning, Long Term Memory, Freezing Time",4
+name,LDL + VLDL,4
+name,Congestion,4
+name,Conception Rate,4
+name,Coagulation Time,4
+name,"Levator Ani (With Bulbocavernosus) Muscle Weight, Relative",4
+name,Litter Loss (%),4
+name,Chronic Progressive Nephropathy,4
+name,"Cholesterol (CHOL), Total, Plasma",4
+name,Litters Delivered ≤7  pups,4
+name,Litters Delivered ≥ 8 pups,4
+name,Live Birth Index,4
+name,Live Pups Born (per female mated),4
+name,Urine Potassium (K),4
+name,Cholecystokinin (CCK),4
+name,"Chloride (CL), Serum",4
+name,"Chloride (CL), Blood",4
+name,"Cerebrum, Thickness, Anterior/Posterior",4
+name,"Liver, Abnormal Shape",4
+name,Urine Potassium (K) Exc,4
+name,"Cerebrum, Anterior/Posterior",4
+name,"Cerebellum, Vacuolation of the Neuropil",4
+name,"Cerebellum, Thickness, Anterior/Posterior",4
+name,"Liver, Central Vacuolic Change",4
+name,"Liver, Centrilobular Areas, Hepatocellular Vacuolization, Multifocal or Diffuse",4
+name,"Cerebellum, Thickness",4
+name,"Liver, Centrilobular, Fibrosis",4
+name,"Cerebellum, Neuronal Necrosis",4
+name,"Cerebellum, Hemorrhage",4
+name,"Liver, Congestion, Multifocal",4
+name,"Liver, Discolored",4
+name,"Cerebellum, Gliosis",4
+name,"Cerebellum, Anterior/Posterior",4
+name,Cerebellum,4
+name,"Liver, Fatty Change, Macrovesicular",4
+name,"Liver, Fatty Change, Microvesicular",4
+name,"Liver, Focus of Cellular Alteration, Atypical",4
+name,"Liver, Hemangiosarcoma",4
+name,Cerebellar Norepinephrine (7 d),4
+name,"Liver, Hepatocellular Adenoma or Carcinoma",4
+name,Cerebellar Norepinephrine (2 d),4
+name,"Liver, Hepatocellular Vacuolation",4
+name,"Liver, Hepatocyte Enlargement and Vacuolation",4
+name,"Liver, Hepatocyte, Cytoplasmic Vacuolation",4
+name,Cerebellar Norepinephrine (14 d),4
+name,Urine Sodium (Na),4
+name,"Liver, Hepatocyte, Vacuolization, Cytoplasmic",4
+name,"Caudate Putamen, Thickness",4
+name,"Liver, Inflammation, Focal",4
+name,Urine Sodium (Na) Exc,4
+name,"Liver, Necrosis, Central",4
+name,"Liver, Necrosis, Multifocal",4
+name,"Liver, Neoplasms",4
+name,"Liver, Neutrophilic Infiltrate, Focal",4
+name,Cauda Epididymis Sperm Count per g Cauda,4
+name,"Liver, Subcapsular Areas, Necrosis, Multifocal",4
+name,"Liver, Total Altered Cell Foci",4
+name,"Liver, Vacuolization Cytoplasmic",4
+name,Cauda Epididymis Sperm Count,4
+name,"CAP Threshold Shift, 8 kHz",4
+name,"Lung with Trachea and Larynx Histopathology, Abnormal",4
+name,"CAP Threshold Shift, 4 kHz",4
+name,Urine Urobilinogen,4
+name,"CAP Threshold Shift, 24 kHz",4
+name,"CAP Threshold Shift, 2 kHz",4
+name,"Lung, Alveolar Macrophages",4
+name,"Lung, Alveolar/Bronchiolar Carcinoma",4
+name,"CAP Threshold Shift, 16 kHz",4
+name,"CAP Threshold Shift, 12 kHz",4
+name,"Lung, Bronchiole, Epithelium, Regeneration",4
+name,"Lung, Bronchiole, Number of Goblet Cells",4
+name,"Lung, Bronchiole, Regeneration",4
+name,"Lung, Bronchiole, Vacuolization Cytoplasmic",4
+name,"Lung, Bronchitis and Bronchiolitis, Necrotizing",4
+name,"Lung, Bronchopneumonia, Necrotizing, Multifocal",4
+name,"Lung, Bronchopneumonia, Suppurative, Necrotizing, Multifocal",4
+name,"Lung, Bronchus, Epithelium, Hyperplasia",4
+name,"Lung, Bronchus, Epithelium, Regeneration",4
+name,"Lung, Discolored",4
+name,"Lung, Fibrosis",4
+name,"Calcium (CA), Blood",4
+name,"CA3 Region, Right",4
+name,"CA3 Region, Left",4
+name,"CA1 Region, Right",4
+name,"Lung, Injury Score",4
+name,"Lung, Mediastinum, Inflammation, Fibrinopurulent, Gavage Induced",4
+name,"CA1 Region, Left",4
+name,"Lung, Necrotizing Pyogranuloma",4
+name,"Lung, Pigment",4
+name,"Lung, Pleuritis, Fibrinopurulent",4
+name,"Lung, Pneumonia, Bronchiolitis, Peribranchiolitis, Suppurative, Multifocal",4
+name,"Lung, Pneumonia, Chronic",4
+name,"Lung, Pneumonia, Granulomatous, Necrotizing, Multifocal",4
+name,"Lung, Pneumonia, Subacute, Focal or Multifocal",4
+name,"Lung, Pneumonia, Subacute, Multifocal, with Focal Suppurative Bronchiolitis",4
+name,"Lung, Pneumonia, Subacute, with Bronchiolar/Alveolar Cell Hyperplasia, Multifocal",4
+name,"Lung, Radial Alveolar Counts",4
+name,"Bronchial Tube Histopathology, Abnormal",4
+name,"Lymph Node, Bronchial, Pigment",4
+name,Brain Width,4
+name,"Lymph Node, Mandibular, Atrophy",4
+name,"Lymph Node, Mandibular, Hyperplasia, Lymphoid",4
+name,Brain Length,4
+name,"Lymph Node, Mediastinal, Hyperplasia, Lymphoid",4
+name,"Uterus (With Cervix) Weight, Absolute",4
+name,"Lymph Node, Mesenteric Histopathology, Abnormal",4
+name,"Lymph Node, Mesenteric, Atrophy",4
+name,Bradypnea,4
+name,"Lymph Node, Mesenteric, Lymphatic, Ectasia",4
+name,"Lymph Node, Thymic Histopathology, Abnormal",4
+name,"Lymph Nodes, Non-Neoplastic Lesions",4
+name,Lymphocyte %,4
+name,Lymphocyte (%),4
+name,"Bone Marrow, Reticulum Cell Hyperplasia, Focal",4
+name,"Lymphocytes, Activated",4
+name,"Lymphocytes, Total, Blood",4
+name,Lymphoma,4
+name,Magnesium,4
+name,"Magnesium, Plasma",4
+name,Male Fetuses / Litter,4
+name,Male Pup Weight Relative to Litter,4
+name,"Malondialdehyde (MDA), Kidney",4
+name,Mammary Gland Development Score,4
+name,"Mammary Gland Histopathology, Abnormal",4
+name,"Mammary Gland, Carcinoma",4
+name,"Mammary Gland, Neoplasms, Benign and Malignant",4
+name,"Mammary Gland, Neoplasms, Malignant",4
+name,"Mammary Gland, Non-Neoplastic Lesions",4
+name,"Mandibular Lymph Node, Non-Neoplastic Lesions",4
+name,Maternal Body Weight Change,4
+name,"Maternal Water Consumption, Relative",4
+name,"Body Weight, Pup (PND7)",4
+name,"Mean Corpuscular Hemoglobin (MCH), Recovery",4
+name,"Mediastinum, Inflammation, Fibrinopurulent, Gavage Induced",4
+name,Mesenteric Lymph Node Histopathology,4
+name,Mesenteric Lymph Node Hyperplasia,4
+name,"Body Weight, Pup (PND335)",4
+name,Mevalonic Acid Lactone (MAL),4
+name,"Midzonal/Centrilobular Hypertrophy, Diffuse",4
+name,Monocytes %,4
+name,Monocytes (%),4
+name,Mononuclear Cell Leukemia,4
+name,Morris Water Maze (Hidden Platform Acquisition Day 1),4
+name,Morris Water Maze (Hidden Platform Acquisition Day 2),4
+name,Morris Water Maze (Hidden Platform Acquisition Day 3),4
+name,Morris Water Maze (Hidden Platform Acquisition Day 4),4
+name,Morris Water Maze (Hidden Platform Acquisition Day 5),4
+name,Morris Water Maze (Hidden Platform Acquisition Day 6),4
+name,% live births per litter,4
+name,"Uterus, Endometrium, Hyperplasia, Cystic",4
+name,Mucosa Irritation,4
+name,Muscle Histopathology,4
+name,"Body Weight, Pup (PND14)",4
+name,Myocardial Degeneration,4
+name,"N-acetyl-beta-glucosaminidase, Urine",4
+name,"N-acetyl-beta-glucosaminidase/Creatinine, Urine",4
+name,"Nasal Cavity, Atrophy and Respiratory Metaplasia Olfactory Epithelium",4
+name,"Nasal Cavity, Nasopharyngeal Tissue Histopathology, Abnormal",4
+name,"Nasal Cavity, Non-Neoplastic Lesions",4
+name,"Nasal Cavity, Osseous Metaplasia",4
+name,"Nasal Cavity, Turbinates, Necrosis",4
+name,Nasal Effects,4
+name,Nasal Mucosa Irritation,4
+name,"Uterus, Histopathology",4
+name,"Nasopharyngeal, Duct Goblet Cell, Hyperplasia (Level V)",4
+name,Nasopharynx Histopathology,4
+name,Natural Killer (NK) Cell,4
+name,Necropsy Body Weight,4
+name,Active Avoidance Behavior (Avoidance Reactions Day 2),4
+name,Neoplasms,4
+name,Neoplastic Effects,4
+name,"Body Weight, Percent of Control",4
+name,Neurobehavior,4
+name,"Vaginal Opening, Adjusted for Body Weight",4
+name,Active Avoidance Behavior (Avoidance Reactions Day 1),4
+name,"Acid Phosphatase (ACP), Liver",4
+name,Nonlive Implants / Litter,4
+name,"Nose, Foreign Body",4
+name,"Body Weight, Male Pup (PND70)",4
+name,"Nose, Nasopharyngeal Duct, Degeneration",4
+name,"Body Weight, Male Pup (PND40)",4
+name,"Body Weight, Female Pup (PND70)",4
+name,"Body Weight, Female Pup (PND40)",4
+name,"Body Weight, Absolute (15 mon)",4
+name,"Nose, Respiratory Epithelium, Vacuolization Cytoplasmic",4
+name,"Nose, Transitional Epithelium, Hyperplasia",4
+name,Nucleated Red Blood Cells,4
+name,Number Litters with Resorptions,4
+name,Number of Litters of Known Size,4
+name,Number of Litters Per Pair,4
+name,Number of Litters with Surviving Offspring,4
+name,Body Weight at First Estrus,4
+name,"Body Length, Fetal",4
+name,"Blood Urea Nitrogen (BUN), Serum",4
+name,"Blood Pressure (BP), Mean Arterial Pressure",4
+name,"Blood Pressure (BP), Mean",4
+name,"Olfactory Epithelium, Degeneration/Necrosis (Level II)",4
+name,"Olfactory Epithelium, Degeneration/Necrosis (Level III)",4
+name,"Olfactory Epithelium, Hyperplasia,  Basal Cell (Level II)",4
+name,Bilirubin (BILI),4
+name,"Olfactory Epithelium, Hyperplasia, Basal Cell (Level III)",4
+name,"Olfactory Epithelium, Hyperplasia, Basal Cell (Level IV)",4
+name,"Olfactory Epithelium, Hyperplasia, Basal Cell (Level V)",4
+name,"Bile Duct, Hyperplasia",4
+name,"Olfactory Epithelium, Neuroblastoma",4
+name,"Open Field Test, Total Distance",4
+name,"Open Field, Rearing",4
+name,Opthalmic Examination,4
+name,"Bile Acids, Serum",4
+name,Basophils (%),4
+name,"Ovary Histopathology, Abnormal",4
+name,"Ovary, Histopathology",4
+name,"Ovary, Interstitium, Hyperplasia",4
+name,Oxidative Stress Markers,4
+name,B Cell Count,4
+name,Palmitoyl CoA Oxidase,4
+name,palmitoyl CoA oxidase (PCoAO),4
+name,"Average Path Velocity, Sperm",4
+name,"Pancreas Histopathology, Abnormal",4
+name,"Pancreas, Acinar Cell Adenocarcinoma",4
+name,"Pancreas, Acinar Cell Atrophy, Focal",4
+name,"Pancreas, Acinar Epithelium, Vacuolization, Multifocal",4
+name,"Pancreas, Lymphocytic Infiltrate, Focal",4
+name,"Pancreas, Peripancreatic Adipose Tissue, Lymphocytic Infiltrate",4
+name,Parathyroid Histopathology,4
+name,"Parietal Cortex, Left",4
+name,"Parietal Cortex, Right",4
+name,"Parietal Cortex, Thickness",4
+name,"Parotid Salivary Gland Histopathology, Abnormal",4
+name,Partly Split and Shortened RER,4
+name,Percent live birth,4
+name,Percent male pups per Number of pups sexed,4
+name,Percent Perinatal Death,4
+name,"Percent Progressive Motility, Sperm",4
+name,"Percent Straightness, Sperm",4
+name,Percent Total Pairs With At Least One Litter,4
+name,Percent Total Pairs With At Least Two Litters,4
+name,Percent Weaned,4
+name,"Peritoneal Macrophages Migration, In Vitro",4
+name,Peroxisomal Beta Oxidation,4
+name,"Phospholipid, Blood",4
+name,"Phosphorous (PHOS), Plasma",4
+name,"Phosphorus, Urine",4
+name,"Auditory Sebaceous Glands, Abnormal",4
+name,"Auditory Sebaceous Gland Histopathology, Abnormal",4
+name,"Pituitary Gland Histopathology, Abnormal",4
+name,Auditory Sebaceous Gland,4
+name,"Pituitary Gland, Non-Neoplastic Lesions",4
+name,"Pituitary, Cyst, Pars Distalis",4
+name,"Pituitary, Histopathology",4
+name,"Pituitary, Hyperplasia, Pars Distalis",4
+name,Placentas with Viable Fetuses,4
+name,Placentation Sites,4
+name,Plasma Fluoride,4
+name,Platelet Distribution Width (PDW),4
+name,"Pleural Cavity, Fibrinopurulent Exudate, Gavage Induced",4
+name,"Pleural Cavity, Inflammation, Fibrinopurulent, Gavage Induced",4
+name,Position Reversal (Number of Perseverative Errors),4
+name,Aromatase Activity,4
+name,Viable Fetuses,4
+name,Pre-implantation Loss,4
+name,Pregnancy Rate,4
+name,Visceral Abnormalities,4
+name,Premature Delivery,4
+name,"Preputial gland, Histopathology",4
+name,"Progesterone, Serum",4
+name,Proliferation of splenic CD4 T cells,4
+name,"Prostate gland, Histopathology",4
+name,"Prostate Weight, Dorsolateral, Absolute (Unadjusted)",4
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG (7 wk)",4
+name,"Antinucleolar Antibody Test (ANoA), Fraction Positive for IgG (10 wk)",4
+name,Pup Weight Relative to Litter,4
+name,"Antinuclear Antibody Test (ANA), Titer",4
+name,"Antinuclear antibody test (ANA), Positive Response",4
+name,Red-Stained Face,4
+name,"Antinuclear Antibody Test (ANA), Mean ANoA Titer for IgG1 (5 wk)",4
+name,Red Blood Cell Count (RBC),4
+name,"Antinuclear Antibody Test (ANA), Mean ANoA Titer for IgG1 (2 wk)",4
+name,"Antibrain IgG Antibodies, Serum (PND70)",4
+name,Resorptions,4
+name,Resorptions / Litter,4
+name,"Antibrain IgG Antibodies, Serum (PND21)",4
+name,Resorptions/Litter,4
+name,Respiratory Epithelium Squamous Metaplasia (Level II),4
+name,"Respiratory Epithelium, Bowman's Gland, Squamous Metaplasia",4
+name,"Anti-ssDNA Antibodies, Serum (10 wk)",4
+name,"Respiratory Epithelium, Hyperplasia (Level II)",4
+name,"Anti-Fibrillarin Antibodies, Serum (10 wk)",4
+name,"Respiratory Epithelium, Squamous Metaplasia, Bowman's Gland",4
+name,Reticulocyte maturity index,4
+name,"Anogenital Distance, Adjusted",4
+name,"Salivary Gland, Sublingual Histopathology, Abnormal",4
+name,Anogenital Distance,4
+name,Segmented Neutrophils,4
+name,Segmented Neutrophils (%),4
+name,Animals with only Dead Fetuses or Degenerate Placentas,4
+name,Animals with Implantations,4
+name,Amylase,4
+name,"Amplitude of Lateral Head Displacement, Sperm",4
+name,"Seminal Vesicle, Histopathology",4
+name,"Seminal Vesicles Weight, Relative",4
+name,Sensory Reactions,4
+name,SER Proliferation,4
+name,Serotonin Concentration,4
+name,"Serum Cholesterol (CHOL), Total",4
+name,Sex Chromosome Univalency,4
+name,Sex Ratio,4
+name,"Skeletal Muscle (Thigh) Histopathology, Abnormal",4
+name,Alveolar/bronchiolar Adenoma,4
+name,"Alkaline Phosphatase/Creatinine, Urine",4
+name,"Alkaline Phosphatase (ALP), Liver",4
+name,"Water Consumption, Relative",4
+name,"Small Intestine, Duodenum, Histopathology",4
+name,"Small Intestine, Duodenum, Lymphatic, Ectasia",4
+name,"Alkaline Phosphatase (ALP), BAL Fluid",4
+name,"Small Intestine, Ileum, Histopathology",4
+name,"Small Intestine, Jejunum, Lymphatic, Ectasia",4
+name,"Small Intestine, Non-Neoplastic Lesions",4
+name,Sociability (Latency to Familiar Zone),4
+name,Sociability (Latency to Novel Zone),4
+name,Sociability (Latency to Social Zone),4
+name,Sociability (Number of Entries to Empty Side),4
+name,Sociability (Number of Entries to Social Zone),4
+name,Sociability (Number of Sniffings of Stimulus Animal),4
+name,Sociability (Time in Empty Side),4
+name,Sociability (Time in Familiar Zone),4
+name,Sociability (Time in Novel Zone),4
+name,Sociability (Time Spent in Central Chamber),4
+name,Sociability (Time Spent Sniffing Stimulus Animal),4
+name,Social Novelty (Number of Entries to Familiar Side),4
+name,Social Novelty (Number of Entries to Novel Side),4
+name,Social Novelty (Number of Sniffings of Familiar Animal),4
+name,Social Novelty (Number of Sniffings of Novel Animal),4
+name,Social Novelty (Time Spent in Central Chamber),4
+name,Social Novelty (Time Spent Sniffing Familiar Animal),4
+name,Social Novelty (Time Spent Sniffing Novel Animal),4
+name,Sociosexual Choice (Percent Time Near a Hormone Stimulus Animal),4
+name,Sociosexual Choice (Time in Either Stimulation Zone),4
+name,"Sociosexual USVs (Post-stimulus, Flat Ultrasonic Vocalizations)",4
+name,"Sociosexual USVs (Post-stimulus, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Sociosexual USVs (Pre-stimulus, Flat Ultrasonic Vocalizations)",4
+name,"Sociosexual USVs (Pre-stimulus, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Sociosexual USVs (Stimulus, Flat Ultrasonic Vocalizations)",4
+name,"Sociosexual USVs (Stimulus, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Sorbitol Dehydrogenase (SDH), Blood",4
+name,Sperm/cauda epididymis,4
+name,Sperm/g cauda epididymis,4
+name,White Blood Cell (WBC) Differential,4
+name,"Spleen Cells Migration, In Vitro",4
+name,"Spleen Infiltration Cellular, Histiocyte",4
+name,"Albumin (A), Serum",4
+name,"Spleen, Atrophy",4
+name,Aggressive Behavior,4
+name,"Spleen, Lymphoid Follicle, Atrophy",4
+name,"Agglutinins, Serum",4
+name,"Splenic Cellularity, CD4-CD8-",4
+name,"Splenic Cellularity, CD4+",4
+name,"Splenic Cellularity, CD4+CD8+",4
+name,"Splenic Cellularity, CD8+",4
+name,"Splenic Cellularity, Cells per spleen weight",4
+name,"Stomach Histopathology, Forestomach, Abnormal",4
+name,"Stomach Histopathology, Glandular, Abnormal",4
+name,"Stomach, Forestomach, Epithelium, Hyperplasia",4
+name,"Stomach, Forestomach, Inflammation",4
+name,Withdrawal Following Touch Escape,4
+name,"Stomach, Glandular, Erosion",4
+name,"Stomach, Neoplasms",4
+name,Striatal Dopamine (14 d),4
+name,Striatal Dopamine (2 d),4
+name,Striatal Dopamine (7 d),4
+name,Striatal Norepinephrine (14 d),4
+name,Striatal Norepinephrine (2 d),4
+name,Striatal Norepinephrine (7 d),4
+name,"Striatum, Left",4
+name,"Striatum, Right",4
+name,Survival Index,4
+name,"Suspension Test, Immobility Time",4
+name,"Suspension Test, Latency to Immobility",4
+name,Sweet Preference (Saccharin Consumption Day 1),4
+name,Sweet Preference (Saccharin Consumption Day 2),4
+name,Sweet Preference (Saccharin Consumption Day 3),4
+name,Sweet Preference (Saccharin Consumption Day 4),4
+name,Sweet Preference (Saccharin Consumption Day 5),4
+name,Sweet Preference (Saccharin Consumption Day 6),4
+name,Tail-Pinch Score,4
+name,Terminal Body Weight (minus Liver),4
+name,Affiliative Behavior (Number of Wrestle),4
+name,"Terminal Body Weight, Absolute, F1",4
+name,Affiliative Behavior (Number of Hops),4
+name,Affiliative Behavior (Latency to Wrestle),4
+name,"Testes, Interstitial Cell, Hyperplasia",4
+name,Testicular Spermatid Count per g Testis,4
+name,Affiliative Behavior (Latency to Nape Contact),4
+name,Affiliative Behavior (Latency to Hop),4
+name,"Testis Weight, Relative to Body Weight",4
+name,"Testis Weight, Relative to Brain Weight",4
+name,"Testis Weight, Right, Absolute (Adjusted)",4
+name,"Testis with Epididymis, Histopathology",4
+name,"Testis, Histopathology",4
+name,"Affiliative Behavior (Day 3, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 3, Flat Ultrasonic Vocalizations)",4
+name,"Fluid Mass, Absolute",4
+name,"Thyroid with Parathyroid, Non-Neoplastic Lesions",4
+name,Thyroid/Parathyroid Gland Histopathology,4
+name,"Thyroid/Parathyroid Gland Weight, Left, Absolute",4
+name,"Thyroid/Parathyroid Gland Weight, Left, Relative",4
+name,"Thyroid/Parathyroid Gland Weight, Left, Relative to Brain",4
+name,"Affiliative Behavior (Day 1, Stimulus, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 1, Stimulus, Flat Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 1, Pre-stimulus, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Thyroid Gland, Degeneration, Focal",4
+name,"Thyroid Gland, Dilated Follicles",4
+name,"Affiliative Behavior (Day 1, Pre-stimulus, Flat Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 1, Post-/pre-stimulus, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 1, Post-/pre-stimulus, Flat Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 1, Frequency Modulated Ultrasonic Vocalizations)",4
+name,Fetal Visceral Abnormalities,4
+name,Fetuses with Cleft Palate,4
+name,"Adrenal Glands, Corticomedullary Junction, Congestion",4
+name,"Thyroid Gland Histopathology, Abnormal",4
+name,"Affiliative Behavior (Day 2, Frequency Modulated Ultrasonic Vocalizations)",4
+name,"Affiliative Behavior (Day 2, Flat Ultrasonic Vocalizations)",4
+name,"Thyroid Gland, C-Cell Adenoma",4
+name,"Thyroid Gland, C-Cell Carcinoma",4
+name,"Thyroid Gland, Colloid Area, Grade 1",4
+name,"Affiliative Behavior (Day 1, Flat Ultrasonic Vocalizations)",4
+name,"External Germinal Layer, Thickness",4
+name,"External Variations, Total, Fetal Incidence",4
+name,Eye Irritation,4
+name,"Eye, Non-Neoplastic Lesions",4
+name,"Eye, Retina, Pseudorosette Formation",4
+name,"Fatty Change, Microvesicular",4
+name,"Affiliative Behavior (Day 2, Post-stimulus, Flat Ultrasonic Vocalizations)",4
+name,Litter Size (1st litter),3
+name,"Seminal Vesicle, Coagulating Gland Weight, Relative",3
+name,"Excess Salivation, Slight to Moderate",3
+name,"Cholesterol (CHOL), Plasma",3
+name,Live Pups Born per Litter,3
+name,Flavor Aversion (Choice Testing),3
+name,Fixed Interval Performance (Stable-State Responses 90 seconds),3
+name,Differential Reinforcement of Low Rate Schedule (Ratio of Reinforced to Nonreinforced Responses DRL 1),3
+name,"Anti-Müllerian hormone (AMH), Serum",3
+name,"Liveborn Pups, Mean/Litter",3
+name,"Inhibin B (INHB), Serum",3
+name,"Harderian Gland, Adenoma",3
+name,Liver Pathology,3
+name,"Acyl-CoA Oxidase Activity, Liver",3
+name,Elevated Zero Maze (Number of Head Dips),3
+name,"cGMP, Plasma",3
+name,"Fetal Alterations, Total Anomalies, Visceral",3
+name,Antibody Forming Response to SRBC (PFCs per Million Cells),3
+name,"Liver, Angiosarcoma",3
+organ,Nerve,3
+organ,Small Intestine,3
+system,Hematopoietic,3
+name,"Ammonia (NH4+), Serum",3
+name,"Thyroid Weight, Absolute, PND36",3
+name,"Litter Size, Liveborn",3
+name,Skeletal Abnormalities,3
+name,"Seminal Vesicle, Coagulating Gland Weight, Absolute",3
+name,"Thyroid Gland, Follicular Cell, Hyperplasia",3
+name,Inflammatory Cell Infiltration,3
+name,Androgen,3
+name,Fetuses with Brachydactyly,3
+name,Endothelial Cells,3
+name,Differential Reinforcement of Low Rate Schedule (Ratio of Reinforced to Nonreinforced Responses DRL 10),3
+name,xxx Dams with Liveborn Offspring,3
+name,Sedation,3
+effect,Metabolite,3
+effect,Offspring Viability,3
+effect,Postnatal Survival,3
+effect,4190 Histopathology,3
+effect,Water Consumption,3
+effect,DNA Damage,3
+effect,Enlarged Organ,3
+effect,Antioxidants,3
+effect,Food Consumption,3
+effect,HDL Cholesterol,3
+organ,Brain (hippocampus),3
+organ,Colon,3
+organ,"Testis, epididymis",3
+organ,HPA Axis,3
+organ,Lymph Nodes,3
+organ,"Lung, Bronchi",3
+effect_subtype,Neoplastic Lesion,3
+effect_subtype,bcl-2 mRNA Expression,3
+effect_subtype,Cardiac Sensitization,3
+effect_subtype,Structural Alterations,3
+effect_subtype,Gonadotrophic Hormone,3
+effect_subtype,Hemorrhage,3
+effect_subtype,increased,3
+effect_subtype,Acinar Cell Apoptosis,3
+effect_subtype,Liver Function Enzyme,3
+effect_subtype,Liver Lipid,3
+effect_subtype,Lymphocytes,3
+effect_subtype,Macroscopic Observations,3
+effect,Total Calcium,3
+effect,Immunohistochemistry,3
+effect,Lipid Metabolism,3
+effect,Maternal-Fetal Abnormalities,3
+name,"Albumin (A), Serum (78 wk)",3
+name,Fetuses with Syndactyly,3
+name,Clinical Observations in Dams,3
+name,"Clinical Observation, Unspecified",3
+name,Endothelial-dependent relaxation,3
+name,xxx Weaning Body Weight,3
+name,"Expression Levels, caspase-3 Protein",3
+name,Litter Loss,3
+name,"Thyroid, Histopathology, Ectopic Thymic Tissue",3
+name,Implantations Per Dam,3
+effect_subtype,Maternal Body Weight,3
+effect_subtype,Measurement in Urine,3
+effect_subtype,Mitochondrial Function,3
+effect_subtype,Protein binding and transport,3
+effect_subtype,Neoplasms,3
+effect_subtype,Post-Implantation Loss,3
+name,"Adrenal Glands, Enlarged",3
+name,Weaning Body Weight,3
+name,Eye Abnormalities,3
+name,"External Variations, Total, Mean Fetuses per Litter",3
+name,IgG Serum Titer,3
+name,"Iliac Lymph Node, Non-Neoplastic Lesions",3
+name,Implantation Loss,3
+name,"External Variations, Total, Litter Incidence",3
+name,Full Litter Resorption (%),3
+name,Differential Reinforcement of Low Rate Schedule (Ratio of Reinforced to Nonreinforced Responses DRL 15),3
+name,"Implantation Sites, % Nonlive/Litter",3
+name,External Malformations,3
+name,"Small Intestine, Neoplasms",3
+name,"Gastrointestinal Tract Histopathology, Abnormal",3
+name,"Levator Ani/Bulbocaernosus Muscle Complex, Reduced",3
+name,xxxLitters Discarded - Cohort 1,3
+name,"Hepatocellular Vacuolation, Diffuse",3
+name,"Free Fatty Acids (FFA), Plasma",3
+name,Active Avoidance Behavior (Trials to Criterion Day 2),3
+name,Lethargic,3
+name,Urine-Stained Abdominal Fur (Day Onset),3
+name,"Total Bilirubin (TBILI), Urine",3
+name,Direct Bilirubin,3
+name,Hydrocephalus,3
+name,"Eye, Corneal Opacity",3
+name,"Leukocyte Count, Total",3
+name,"Leuteinizing hormone (LH), Serum",3
+name,"Hyperplasia, Alveolar Epithelium",3
+name,Total Antioxidant Capacity,3
+name,Delivery Index,3
+name,"Free Thyroxine (Free T4), Serum",3
+name,Differential Reinforcement of Low Rate Schedule (Ratio of Reinforced to Nonreinforced Responses DRL 5),3
+name,"Glomerular Filtration Rate (GFR), Estimated",3
+name,"Hepatocellular Hypertrophy, Recovery",3
+name,"Sperm, Circular Over Motile Cells",3
+name,"Sperm, Circular Over All Cells",3
+name,"Sperm, Circular Cells",3
+name,"Sperm, Average Radius",3
+name,"Specific Gravity, Urine",3
+name,Glucose Tolerance Test,3
+name,"Large Intestine, Colon, Non-Neoplastic Lesions",3
+name,Wet Fur,3
+name,"Larynx, Respiratory Epithelium, Metaplasia, Atypical Squamous",3
+name,"Albumin (A), Serum (52 wk)",3
+name,Total Leukocyte Count,3
+name,Total Kits per Litter,3
+name,Food Intake (g/kg-day),3
+name,"Hepatocellular Vacuolation, Centrilobular to Midzonal",3
+name,"Spleen, Extramedullary Hematopoiesis",3
+name,"Spleen, Decreased Extramedullary Hematopoiesis",3
+name,Kit Mortality (including infanticide),3
+name,"β-Glucuronidase, BAL Fluid",3
+name,"Total OHC Loss, 4.5 kHz",3
+name,"Total OHC Loss, 21 kHz",3
+name,"Albumin (A), Serum (104 wk)",3
+name,"Total OHC Loss, 11 kHz",3
+name,Cortical Norepinephrine (21 d),3
+name,"Albumin (A), Serum (130 wk)",3
+name,"Total OHC Loss, 0.12 kHz",3
+name,Fixed Interval Performance (Stable-State Responses 120 seconds),3
+name,"Albumin (A), Serum (156 wk)",3
+name,"Albumin (A), Serum (26 wk)",3
+name,"Lactate Dehydrogenase (LDH), Serum",3
+name,Cortical Dopamine (21 d),3
+name,"Kidney, Renal Tubule, Mineral",3
+name,"Age at Vaginal Opening, Complete (Unadjusted)",3
+name,"Kidney, Tubular Lumen Dilation",3
+name,ST (14 d),3
+name,Squatting Posture,3
+name,Food Intake (g/animal-day),3
+name,"Total Protein (TP), Recovery",3
+name,Differential Leukocyte Count,3
+name,"Hepatocellular Hypertrophy, Diffuse",3
+name,"Glandular Stomach, Ulceration",3
+name,"Kidney, Tubular Regeneration",3
+name,"Spleen, Pigmentation, Hemosiderin",3
+name,"Adrenal Gland, Nodular Hyperplasia",3
+name,"DPOAE Threshold Shift, 22.6 kHz",3
+name,"Total OHC Loss, 50 kHz",3
+name,Kit Mortality (excluding infanticide),3
+name,"Nose, Respiratory Epithelium, Atrophy",3
+name,"Total Protein (TP), Serum (52 wk)",3
+name,"Total Protein (TP), Serum (26 wk)",3
+name,"Body Weight Change, Lactation",3
+name,Body Weight at Vaginal Patency,3
+name,Novel Object Recognition,3
+name,"Kidney, Renal Tubule, Hyperplasia, Oncocytic",3
+name,"Total Protein (TP), Serum (156 wk)",3
+name,"Stomach, Forestomach, Hyperplasia, Squamous",3
+name,Age at Startle Response Reflex,3
+name,"Stomach, Forestomach, Epithelium, Hyperplasia, Squamous",3
+name,"Total Protein (TP), Serum (130 wk)",3
+name,Age at Surface Righting Reflex,3
+name,"Total Protein (TP), Serum (104 wk)",3
+name,"Total Protein (TP), Recovery, Serum",3
+name,"Age at Vaginal Opening, Complete (Adjusted)",3
+name,"Cowper's Gland, Reduced, Total",3
+name,"Nose, Goblet Cell, Respiratory Epithelium Hyperplasia",3
+name,Offspring Motality,3
+name,Offspring Mortality (Septicemia),3
+name,Offspring Mortality (Diarrhea),3
+name,Offspring Mortality (Congenital Disease),3
+name,Offspring Mortality (Born Weak),3
+name,"Nose, Nasopharyngeal Duct, Inflammation, Suppurative",3
+name,"Stomach, Non-neoplastic Lesions",3
+name,"Body Weight, Dam",3
+name,"Body Weight Gain, Maternal",3
+name,Number of Normal Estrous Cycles,3
+name,"Total Protein (TP), Serum (78 wk)",3
+name,"Age at Preputial Separation, Initiation",3
+name,"8-hydroxydeoxyguanosine (8-OHdG), Forestomach epithelium",3
+name,"Ventral Prostate, Absolute",3
+name,Open Field Test (Habituation),3
+name,Stunted Growth,3
+name,Viability Index (PND14),3
+name,"Kidney, Nephropathy, Chronic Progressive (3+)",3
+name,"Glandular Stomach, Reddened Mucosa",3
+name,Females that Whelped Live Litters,3
+name,"Trachea Histopathology, Abnormal",3
+name,Striatal Norepinephrine (21 d),3
+name,Differential Reinforcement of Low Rate Schedule (Number of Reinforcers Delivered),3
+name,"Nose, Epithelium, Nasopharyngeal Duct, Regeneration",3
+name,Total Triiodothyronine (T3),3
+name,Total Thyroxine (T4),3
+name,Striatal Dopamine (21 d),3
+name,"Hemoglobin (HGB), Blood",3
+name,Females Giving Birth to Live Infants,3
+name,Body Hair,3
+name,Normoblasts,3
+name,Viability Index (PND4),3
+name,"Cowper's Glands Weight, Absolute",3
+name,"Trachea, Epithelium, Metaplasia, Squamous",3
+name,Bile Duct Hyperplasia,3
+name,"Kidney, Nephropathy, Chronic Progressive (+)",3
+name,"Kidney, Nephropathy, Chronic Progressive (2+)",3
+name,"Body Weight, Maternal (GD 0)",3
+name,"Open Field Test, Time in Center",3
+name,"Open Field Test, Rearings",3
+name,"Open Field Test, Rearing",3
+name,Open Field Test (Thigmotaxis PND60),3
+name,Open Field Test (Thigmotaxis PND34),3
+name,Open Field Test (Thigmotaxis PND120),3
+name,Open Field Test (Rearing),3
+name,"Nose, Epithelium, Nasopharyngeal Duct, Degeneration",3
+name,"Nasal Cavity, Bone Lesion Severity Olfactory Ethmoid Turbinates",3
+name,"Ovary, Atretic Follicles",3
+name,"Ovary Weight, Relative to Terminal Body Weight",3
+name,"Neutrophil marker, Ly6g",3
+name,"Ovary Weight, Relative to Brain",3
+name,"Body Weight, Maternal (GD 6)",3
+name,"Body Weight, Maternal (GD 12)",3
+name,"Neutrophils, Blood",3
+name,Nitrite,3
+name,xxxDeath of Whole Litter,3
+name,No Milk in Stomach,3
+name,"Ferritin, Serum",3
+name,Bile Acids,3
+name,Non-Esterified Fatty Acids (NEFA),3
+name,"Bile Acids, Liver",3
+name,Viability Index (PND7),3
+name,"Transferrin, Serum (104 wk)",3
+name,"Transferrin, Serum",3
+name,Megaloblasts,3
+name,"Ferritin, Serum (130 wk)",3
+name,Midbrain Norepinephrine (14 d),3
+name,Midbrain Norepinephrine (2 d),3
+name,Midbrain Norepinephrine (7 d),3
+name,Morris Water Maze (Cued Latency),3
+name,"Mortality, Bacterial Challenge",3
+name,Motor Activity and Function Observation Battery (MAFOB),3
+name,"Motor Activity, Number of Movements",3
+name,"Trachea, Non-Neoplastic Lesions",3
+name,"Viability, Litters with Stillborn Pups",3
+name,"Ferritin, Serum (104 wk)",3
+name,Differential Reinforcement of Low Rate Schedule (Number of Responses DRL 1),3
+name,"Motor Activity, Time Spent in Movement",3
+name,Age at Air Righting Reflex,3
+name,Age at Incisor Eruption,3
+name,"Maternal Body Weight Change, Lactation",3
+name,"Pancreas, Hyperplasia, Islet Cell",3
+name,Maternal Clinical Observations,3
+name,Mean Arterial Pressure (MAP),3
+name,"Pancreas, Acinus, Vacuolization Cytoplasmic",3
+name,"Body Weight, Pup (PND35)",3
+name,"Transferrin, Serum (156 wk)",3
+name,"Kidney, Hyaline Droplet Nephropathy (Severity)",3
+name,"Mean Corpuscular Volume (MCV), Recovery",3
+name,"Mean Liver PFHxS Concentration, PND 21",3
+name,"Cowper's Glands Weight, Relative",3
+name,"Mean Liver PFHxS Concentration, PND 36",3
+name,"Transferrin, Serum (130 wk)",3
+name,Age at Pinna Detachment,3
+name,Percent Live Male Pups per Litter,3
+name,"Ferritin, Serum (156 wk)",3
+name,"Mammary Gland, Adenocarcinoma",3
+name,Passive Avoidance Behavior (4 h),3
+name,"Mammary Gland, Adenoma",3
+name,Passive Avoidance Behavior (0 min),3
+name,"Testes Weight, Left, Relative",3
+name,"Mammary Gland, Fibroadenoma",3
+name,"Kidney, Enlarged",3
+name,"Mammary Gland, Terminal End Buds",3
+name,"Transferrin, Serum (78 wk)",3
+name,"Kidney, Granular Casts",3
+name,"Transferrin, Serum (52 wk)",3
+name,"Transferrin, Serum (26 wk)",3
+name,"Mammary Gland, Volume Fraction of Lobules",3
+name,Auditory Startle Reflex,3
+name,"Malformations, Total, Fetal Incidence",3
+name,Testicular Spermatocyte Count,3
+name,"Ferritin, Serum (52 wk)",3
+name,"Malformations, Total, Litter Incidence",3
+name,"Malformations, Total, Mean Fetuses per Litter",3
+name,Auditory Startle Habituation,3
+name,"Uterus Weight, Absolute",3
+name,"Testes, Seminiferous Tubule, Mineralization",3
+name,"Testes, Seminiferous Tubule, Degeneration",3
+name,"Testes, Leydig Cell Adenoma",3
+name,"Ferritin, Serum (26 wk)",3
+name,"Kidney, Cell Proliferation, Outer Stripe of Outer Medulla",3
+name,xxxLitters Discarded - Cohort 2,3
+name,"Testes Weight, Right, Relative",3
+name,"Bone Marrow, Decrease in hematopoiesis",3
+name,"Testes Weight, Right, Absolute",3
+name,"Lymph Node, Non-Neoplastic Lesions",3
+name,Lymphoblast,3
+name,"Kidney, Atypical Tubule Hyperplasia",3
+name,"Kidney, Basophilic Tubules",3
+name,"Kidney, Basophilic Tubules, Minimal Severity",3
+name,"Kidney, Cell Proliferation, Cortex",3
+name,"Phosphorus/Creatinine, Urine",3
+name,"Ferritin, Serum (78 wk)",3
+name,"Testis Histopathology, Abnormal",3
+name,"Bone Marrow, Non-Neoplastic Lesions",3
+name,Lymphosarcoma,3
+name,"Phospholipid, Brain",3
+name,"Adrenal Cortex, Hyperplasia",3
+name,"Macrophage Inflammatory Protein (MIP)-2, BAL Fluid",3
+name,Macroscopic Malformations,3
+name,Phagocytosis,3
+name,Plasma PFHxA Concentration,3
+name,"Testis, Sertoli Cell Number",3
+name,Differential Reinforcement of Low Rate Schedule (Number of Responses DRL 5),3
+name,"Adrenal Cortex, Atrophy",3
+name,Active Avoidance Behavior (Intertrial Crossings Day 2),3
+name,"Pituitary, Pars Distalis, Angiectasis",3
+name,"Creatinine (CREAT), Blood",3
+name,Hematopoietic Cell Foci,3
+name,"Pituitary, Hemorrhage, Pars Distalis",3
+name,"Triglycerides (TRIG), Blood, Fasting",3
+name,"Pituitary, Angiectasis, Pars Intermedia",3
+name,"Pituitary Weight, Absolute",3
+name,Differential Reinforcement of Low Rate Schedule (Number of Responses DRL 10),3
+name,"Lymph Node, Mediastinal, Pigment",3
+name,"Lymph Node, Mediastinal, Pigmentation",3
+name,Active Avoidance Behavior (Intertrial Crossings Day 1),3
+name,Interleukin 4 (IL-4),3
+name,"Urine, Proteinuria",3
+name,"Testosterone (T), Serum",3
+name,"Calcium/Creatinine, Urine",3
+name,"Lung, Perivascular Mononuclear Infiltrate",3
+name,"Lung, Pneumonia, Interstitial",3
+name,"Differential Reinforcement of Low Rate Schedule (Proportion of Responses Falling Within > 17.5 Second IRT Bin, Steady State)",3
+name,"Testis/Epididymis Weight, Relative to Terminal Body Weight",3
+name,Polymorphonuclear Neutrophils,3
+name,"Lung, Vascular Mineralization",3
+name,Intestine Histopathology,3
+name,"Creatinine (CREAT), Serum",3
+name,C-Reactive Protein (CRP),3
+name,"Differential Reinforcement of Low Rate Schedule (Proportion of Responses Falling Within < 2.5 Second IRT Bin, Steady State)",3
+name,"Aspartate Aminotransferase/Creatinine, Urine",3
+name,Urobilinogen,3
+name,"Liver, Pigmentation",3
+name,"Differential Reinforcement of Low Rate Schedule (Proportion of Responses Falling Within 10-12.5 Second IRT Bin, Steady State)",3
+name,Proliferation of splenic B cells,3
+name,"Visceral Variations, Total, Fetal Incidence",3
+name,Progressive Ratio Schedule (Number of Reinforcements),3
+name,"Progesterone, Testis, Stimulated (hCG)",3
+name,Hematology,3
+name,Progesterone,3
+name,"Glandular Stomach, Mineralization",3
+name,"Liver, Portal Fibrosis",3
+name,"Tumor Necrosis Factor Alpha (TNF-α), BAL Fluid",3
+name,"Testosterone, Testis, Unstimulated (no hCG)",3
+name,"Testosterone, Testis, Stimulated (hCG)",3
+name,Lucigenin Chemiluminescence,3
+name,Lung Gross Pathology,3
+name,"Lung Weight, Absolute, Recovery",3
+name,"Liver, Hyperplasia, Nodular",3
+name,"Pup Body Weight, PND 21",3
+name,"Liver, Hyperplastic Nodule",3
+name,"Pup Body Weight, PND 1",3
+name,"Fetal Alterations Count, External Malformations",3
+name,"Liver, Inflammation, Chronic Active",3
+name,"Liver, Mixed Cell Focus (includes multiple)",3
+name,"Cauda Epididymis Weight, Right , Absolute",3
+name,"Protein, BAL Fluid",3
+name,"Liver, Nuclei per Unit Area",3
+name,Prostrate,3
+name,"Prostate, Atrophy",3
+name,"Liver, Oval Cell Hyperplasia",3
+name,"Heart, Myocarditis, Chronic",3
+name,"Cauda Epididymis Weight, Absolute",3
+name,"Differential Reinforcement of Low Rate Schedule (Proportion of Responses Falling Within 12.5-15 Second IRT Bin, Steady State)",3
+name,Rats Pregnant/Rats in Cohabitation,3
+name,Rats Mating Days 1-7,3
+name,"Fetal Alterations Count, Skeletal Malformations",3
+name,"Visceral Variations, Total, Mean Fetuses per Litter",3
+name,"Pups Lost, Total",3
+name,"Pups Lost, Day 4",3
+name,"Inhibin B (INHB), Testis",3
+name,"Liver, Hepatic Cell Proliferation",3
+name,"Differential Reinforcement of Low Rate Schedule (Proportion of Responses Falling Within 2.5-5 Second IRT Bin, Steady State)",3
+name,"Visceral Variations, Total, Litter Incidence",3
+name,"Differential Reinforcement of Low Rate Schedule (Proportion of Responses Falling Within 15-17.5 Second IRT Bin, Steady State)",3
+name,Cerebellar Norepinephrine (21 d),3
+name,"Liver, Hepatocyte, Cytoplasmic Vacuolization",3
+name,Pup Loss,3
+name,"Liver, Hepatocyte, Fatty Change",3
+name,"Pup Body Weight, PND 36",3
+name,HbA1c,3
+name,"Resorptions, Any",3
+name,"Resorptions, % per Litter",3
+name,"Fetal Alterations, Total Anomalies, Skeletal",3
+name,"Differential Reinforcement of Low Rate Schedule (Proportion of Responses Falling Within 7.5-10 Second IRT Bin, Steady State)",3
+name,Reproductive Performance,3
+name,"Fetal Alterations, Total",3
+name,"Liver, Ceroid Pigmentation",3
+name,"Visual Discrimination Learning (Number of Errors, Retention)",3
+name,Visual Discrimination Learning (Number Achieving Criterion),3
+name,"Uric Acid, Plasma",3
+name,"Epididymis Weight, Right, Absolute",3
+name,"Epididymis Weight, Relative",3
+name,"Red Blood Cell (RBC), Blood",3
+name,"Liver, Cystoid Degeneration",3
+name,"Differential Reinforcement of Low Rate Schedule (Proportion of Responses Falling Within 5-7.5 Second IRT Bin, Steady State)",3
+name,"Seminal Vesicles Weight (w/o Fluid), Relative",3
+name,Litter Size (2nd litter),3
+name,"Expression Levels, bcl-2 Protein",3
+name,"Inflammation, Alveolar",3
+name,"Skeletal Variations, Total, Mean Fetuses per Litter",3
+name,"Skeletal Variations, Total, Litter Incidence",3
+name,"Skeletal Variations, Total, Fetal Incidence",3
+name,"Skeletal Variations, Total",3
+name,Litter Size ≤ 7 Pups,3
+name,Salivary Glands Histopathology,3
+name,"Growth Rate, Pup",3
+name,Live Fetuses/ Litter,3
+name,"Gut Microbiota, Composition and Abundance",3
+name,"Right Testis Weight, Absolute",3
+name,Live Kits per Litter,3
+name,"Reticulocytes (RET), Recovery",3
+name,"Litters With Fetal Alterations, Skeletal",3
+name,"Thyroid Gland, Enlarged",3
+name,"Litters With Fetal Alterations, Soft Tissue",3
+name,Single Cell Necrosis,3
+name,"Thyroid Weight, Absolute, PND21",3
+name,Cytoplasmic Alteration,3
+name,Active Avoidance Behavior (Trials to Criterion Day 1),3
+name,"Serum Kidney Functions, PND 36",3
+name,"Serum Kidney Functions, PND 21",3
+name,"Inflammation, Interstitial",3
+name,Early and Late Fetal Death,3
+name,Fetuses with Cleft Lip,3
+name,"17apha-Hydroxyprogesterone, Serum",3
+name,Sensory Activity,3
+name,"Inflammation, Mixed Cell",3
+name,"Seminal Vesicles Weight (with Fluid), Relative",3
